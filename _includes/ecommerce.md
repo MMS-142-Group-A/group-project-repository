@@ -5,7 +5,7 @@
                 <h2 class="section-heading">What is E-commerce?</h2>
                 <hr class="light">
                 <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                
+               
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,10 +32,9 @@
             </h6>
         </div>
 
-        <div 
-             </h3>
-             The 6 Types of E-commerce </h3>
-      
+        <div class="component-3">
+            <h3 class="top-h3"> The 6 Types of E-commerce </h3>
+            <h6 class="top-h6">
                 "insert infos text"
             </h6>
             <div class="d-flex align-items-center justify-content-center flex-wrap">
@@ -176,8 +175,17 @@
     </section>
 
     <script>
-   
-   
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
+    </script>
+</body>
+</html>
                 
                 <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
             </div>
