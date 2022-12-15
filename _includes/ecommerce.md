@@ -32,7 +32,9 @@
             </h6>
         </div>
 
-        <div The 6 Types of E-commerce </h3>
+        <div 
+             </h3>
+             The 6 Types of E-commerce </h3>
       
                 "insert infos text"
             </h6>
