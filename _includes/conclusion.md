@@ -2,7 +2,7 @@
          <aside class="primary">
       <div class="container text-center">
           <div class="call-to-action">
-              <h2>Conclusion</h2>
+              <h3>Conclusion</h3>
           </div>
       </div>
   </aside>
