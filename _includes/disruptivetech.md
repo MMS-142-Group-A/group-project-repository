@@ -24,6 +24,7 @@
         </div>
         <div class="container-fluid">
             <h1>
+                ECOMMERCE AS A DISRUPTIVE TECHNOLOGY
             </h1>
             <img src="insert image" alt="">  
         </div>
