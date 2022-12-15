@@ -19,7 +19,7 @@
                     What is E-commerce?
                 </h1>
                 <h6>
-                    "insert infos text"
+                    "insert infos"
                 </h6>
             </div>
         </div>
@@ -28,14 +28,14 @@
                 How does it works?
             </h1>
             <h6>
-                "insert infos text"
+                "insert infos"
             </h6>
         </div>
 
         <div class="component-3">
             <h3 class="top-h3"> The 6 Types of E-commerce </h3>
             <h6 class="top-h6">
-                "insert infos text"
+                "insert infos"
             </h6>
             <div class="d-flex align-items-center justify-content-center flex-wrap">
                 <div class="item col-md-3 p-2">
@@ -43,7 +43,7 @@
                         <h6> Business to Consumer (B2C) </h6>
                         <img src="insert images" alt="">
                         <p>
-                            "insert infos text"
+                            "insert infos"
                         </p>
                     </div>
                 </div>
@@ -52,7 +52,7 @@
                         <h6> Business to Business (B2B) </h6>
                         <img src="insert image" alt="">
                         <p>
-                            "insert infos text"
+                            "insert infos"
                         </p>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         <h6> Business to Government (B2G) </h6>
                         <img src="insert image" alt="">
                         <p>
-                            "insert infos text"
+                            "insert infos"
                         </p>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                         <h6> Consumer to Consumer (C2C) </h6>
                         <img src="insert image" alt="">
                         <p>
-                            "insert infos text"
+                            "insert infos"
                         </p>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                         <h6> Consumer to Business (C2B) </h6>
                         <img src="insert image" alt="">
                         <p>
-                            "insert infos text"
+                            "insert infos"
                         </p>
                     </div>
                 </div>
@@ -88,7 +88,7 @@
                         <h6> Consumer to Government (C2G) </h6>
                         <img src="insert image" alt="">
                         <p>
-                            "insert infos text"
+                            "insert infos"
                         </p>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                         <li>
                             <h5> 1. Larger Market </h5>
                             <h6> 
-                                "insert infos text"
+                                "insert infos"
                             </h6>
                         </li>
                         <li>
@@ -111,7 +111,7 @@
                                 2. Personalized Marketing
                             </h5>
                             <h6>
-                                "insert infos text"
+                                "insert infos"
                             </h6>
                         </li>
                         <li>
@@ -119,7 +119,7 @@
                                 3. Customer Insights
                             </h5>
                             <h6>
-                                "insert infos text"
+                                "insert infos"
                             </h6>
                         </li>
                         <li>
@@ -127,7 +127,7 @@
                                 4. Lower Cost
                             </h5>
                             <h6>
-                                "insert infos text"
+                                "insert infos"
                             </h6>
                         </li>
                     </ul>
@@ -139,7 +139,7 @@
                         <li>
                             <h5> 1. Unguaranteed Product Quality </h5>
                             <h6> 
-                                "insert infos text"
+                                "insert infos"
                             </h6>
                         </li>
                         <li>
@@ -147,7 +147,7 @@
                                 2. Data Breaches and Hacks
                             </h5>
                             <h6>
-                                "insert infos text"
+                                "insert infos"
                             </h6>
                         </li>
                         <li>
@@ -155,7 +155,7 @@
                                 3. Lack of Credibility
                             </h5>
                             <h6>
-                                "insert infos text"
+                                "insert infos"
                             </h6>
                         </li>
                         <li>
@@ -163,7 +163,7 @@
                                 4. Complexity in Regulations
                             </h5>
                             <h6>
-                                "insert infos text"
+                                "insert infos"
                             </h6>
                         </li>
                     </ul>
