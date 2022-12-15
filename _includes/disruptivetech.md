@@ -21,14 +21,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <section class="home">
-        <div class="topnav" id="myTopnav">
-            <a href="index.html" class="active">Home</a>
-            <a href="articles.html">Articles</a>
-            <a href="sources.html">Sources</a>
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                <i class="fa fa-bars"></i>
-            </a>
         </div>
         <div class="container-fluid">
             <h1>
@@ -82,7 +74,7 @@
                     <h5>
                         "insert infos"
                     </h5>
-                    <img src="./bf1.png" alt="">
+                    <img src="insert image" alt="">
                     <h5>
                         "insert infos"
 
@@ -92,7 +84,7 @@
                         <br/>
                         "insert infos"
                     </h5>
-                    <img src="bf2.png" alt="">
+                    <img src="insert image" alt="">
                 </div>
                 <div class="adv-comp article">
                     <h4>
@@ -112,7 +104,7 @@
                     Establishments
                 </h1>
                 <div class="adv-comp article">
-                    <img src="./bf3.png" alt="">
+                    <img src="insert image" alt="">
                     <h5>
                         "insert infos"
                     </h5>
@@ -123,7 +115,7 @@
                     <h5>
                         "insert infos"
                     </h5>
-                    <img src="./bf4.png" alt="">
+                    <img src="insert image" alt="">
 
                     <h5>
                         "insert infos"
