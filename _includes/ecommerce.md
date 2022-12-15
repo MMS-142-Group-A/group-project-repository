@@ -34,8 +34,7 @@
             </h6>
         </div>
 
-        <div class="component-3">
-            <h3 class="top-h3"> The 6 Types of E-commerce </h3>
+        <div The 6 Types of E-commerce </h3>
             <h6 class="top-h6">
                 "insert infos text"
             </h6>
