@@ -17,7 +17,24 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <section class="home">
+    
+    
+{% include head.html %}
+
+<body id="page-top">
+  {% include nav.html %}
+  {% include header.html %}
+  {% include ecommerce.md %}
+  {% include disruptivetech.md %}
+  {% include conclusion.md %}
+  {% include sources.md %}
+  {% include aside.html %}
+  {% include about.html %}
+  {% include scripts.html %}
+</body>
+
+</html>
+    <body id="page-top">
         <div class="topnav" id="myTopnav">
             <a href="index.html" class="active">Home</a>
             <a href="articles.html">Articles</a>
