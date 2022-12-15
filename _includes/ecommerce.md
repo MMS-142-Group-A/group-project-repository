@@ -17,32 +17,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
-    
-{% include head.html %}
 
-<body id="page-top">
-  {% include nav.html %}
-  {% include header.html %}
-  {% include ecommerce.md %}
-  {% include disruptivetech.md %}
-  {% include conclusion.md %}
-  {% include sources.md %}
-  {% include aside.html %}
-  {% include about.html %}
-  {% include scripts.html %}
-</body>
-
-</html>
-    <body id="page-top">
-        <div class="topnav" id="myTopnav">
-            <a href="index.html" class="active">Home</a>
-            <a href="articles.html">Articles</a>
-            <a href="sources.html">Sources</a>
-            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                <i class="fa fa-bars"></i>
-            </a>
-        </div>
         <div class="container-fluid">
             <h1>
                 DISRUPTIVE TECHNOLOGY:
