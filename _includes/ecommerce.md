@@ -70,62 +70,27 @@
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Consumer to Consumer (C2C) </h6>
-                        <img src="./b4.png" alt="">
+                        <img src="insert image" alt="">
                         <p>
-                            C2C E-commerce refers to
-                            consumer-to-consumer
-                            transactions. Customers purchase
-                            goods from other customers
-                            through a third-party platform or
-                            business. Some examples of this are
-                            
-                            through the use of online auction-
-                            listing websites and selling
-                            
-                            applications. Some examples of
-                            these are eBay, Mercari, OLX, and
-                            Depop.
+                            "insert infos text"
                         </p>
                     </div>
                 </div>
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Consumer to Business (C2B) </h6>
-                        <img src="./b2.png" alt="">
+                        <img src="insert image" alt="">
                         <p>
-                            C2B E-commerce refers to consumer-
-                            to-business transactions. In this e-
-                            commerce model, the consumer
-                            
-                            provides value to the business.
-                            Consumers offer products or services
-                            to businesses in change for payment or
-                            
-                            other benefits. This type of E-
-                            commerce transaction allows the
-                            
-                            consumer and the business to have a
-                            mutually beneficial relationship. An
-                            example of this is an influencer
-                            promoting a business by using affiliate
-                            links.
+                            "insert infos text"
                         </p>
                     </div>
                 </div>
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Consumer to Government (C2G) </h6>
-                        <img src="./b5.png" alt="">
+                        <img src="insert image" alt="">
                         <p>
-                            C2G E-Commerce refers to the
-                            consumer-to-government business
-                            model. This type of e-commerce bridges
-                            the gap between the citizens and the
-                            government. C2G e-commerce makes
-                            transactions with the government more
-                            accessible and convenient. An example
-                            of this is paying electricity bills through
-                            e-commerce platforms like G-Cash.
+                            "insert infos text"
                         </p>
                     </div>
                 </div>
@@ -140,9 +105,7 @@
                         <li>
                             <h5> 1. Larger Market </h5>
                             <h6> 
-                                E-commerce allows a business to tap into a larger market than a local market, especially
-                                in the age of globalization, Wherein one can have foreign goods delivered to their
-                                doorstep throughout the globe.
+                                "insert infos text"
                             </h6>
                         </li>
                         <li>
@@ -150,9 +113,7 @@
                                 2. Personalized Marketing
                             </h5>
                             <h6>
-                                E-Commerce allows the personalization of content viewed by consumers.
-                                Recommendations of products based on prior inquiries and personalized messaging are
-                                examples of personalized marketing.
+                                "insert infos text"
                             </h6>
                         </li>
                         <li>
@@ -160,8 +121,7 @@
                                 3. Customer Insights
                             </h5>
                             <h6>
-                                Most e-commerce platforms showcase the performance data of their stores. This allows
-                                businesses to access customer insights via data analytics.
+                                "insert infos text"
                             </h6>
                         </li>
                         <li>
@@ -169,9 +129,7 @@
                                 4. Lower Cost
                             </h5>
                             <h6>
-                                The infrastructure needed to start an E-commerce business and advertisement costs
-                                (billboards, flyers, etc.) are significantly lower. Allowing E-commerce businesses to start
-                                with lower investment and operational costs.
+                                "insert infos text"
                             </h6>
                         </li>
                     </ul>
@@ -183,10 +141,7 @@
                         <li>
                             <h5> 1. Unguaranteed Product Quality </h5>
                             <h6> 
-                                As a buyer, it is worth noting that the quality of a product may vary among shops. The
-                                goods you may purchase might be damaged en route to your location, or the product is
-                                simply of poor quality. There is no sure way of knowing if the product is good outside of
-                                ratings and reviews from other e-commerce users.
+                                "insert infos text"
                             </h6>
                         </li>
                         <li>
@@ -194,12 +149,7 @@
                                 2. Data Breaches and Hacks
                             </h5>
                             <h6>
-                                Business platforms could be hacked, which is the harsh reality of online commerce.
-                                Customers want assurance that their financial information is not shared or compromised
-                                when they make an online purchase. Malicious hackers target businesses and
-                                organizations who take customer information from their databases. Not only does this
-                                undermine the trust in the company, but it may also have financial and legal
-                                repercussions.
+                                "insert infos text"
                             </h6>
                         </li>
                         <li>
@@ -207,10 +157,7 @@
                                 3. Lack of Credibility
                             </h5>
                             <h6>
-                                People and relationships play a large part in business. Because there are fewer face-to-
-                                face interactions in the e-commerce world, developing those relationships can be more
-                                
-                                difficult.
+                                "insert infos text"
                             </h6>
                         </li>
                         <li>
@@ -218,9 +165,7 @@
                                 4. Complexity in Regulations
                             </h5>
                             <h6>
-                                Online retailers may need to abide by local laws in their nations or states as well as the
-                                residences of their customers when selling to customers in other countries. This might
-                                make accounting, taxation, and compliance very complicated.
+                                "insert infos text"
                             </h6>
                         </li>
                     </ul>
