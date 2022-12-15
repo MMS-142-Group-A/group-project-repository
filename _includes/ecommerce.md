@@ -6,7 +6,7 @@
                 <hr class="light">
                 <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
                 
-                [here]
+        
                 
                 <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
             </div>
