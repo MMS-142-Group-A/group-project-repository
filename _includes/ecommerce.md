@@ -176,17 +176,8 @@
     </section>
 
     <script>
-    function myFunction() {
-      var x = document.getElementById("myTopnav");
-      if (x.className === "topnav") {
-        x.className += " responsive";
-      } else {
-        x.className = "topnav";
-      }
-    }
-    </script>
-</body>
-</html>
+   
+   
                 
                 <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
             </div>
