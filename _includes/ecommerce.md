@@ -6,8 +6,6 @@
                 <hr class="light">
                 <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
                 
-        here po 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +33,7 @@
         </div>
 
         <div The 6 Types of E-commerce </h3>
-            <h6 class="top-h6">
+      
                 "insert infos text"
             </h6>
             <div class="d-flex align-items-center justify-content-center flex-wrap">
