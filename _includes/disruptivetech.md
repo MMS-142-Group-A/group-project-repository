@@ -32,285 +32,167 @@
         </div>
         <div class="container-fluid">
             <h1>
-                DISRUPTIVE TECHNOLOGY:
-                ECOMMERCE
+                ECOMMERCE AS A DISRUPTIVE TECHNOLOGY
             </h1>
-            <img src="./bg.png" alt="">  
+            <img src="insert image" alt="">  
         </div>
         <div class="components">
-            <div class="img-side">
-                <img src="e-commerce.jpg" alt="">
-            </div>
-            <div class="text-side">
-                <h1>
-                    What is E-commerce?
-                </h1>
-                <h6>
-                    Andrew Bloomenthal (2022) defined
-                    Electronic Commerce or E-commerce as the
-                    online selling and purchasing of goods and
-                    services. It can only be done through any
-                    smart device (i.e. tablet, smartphone,c
-                    computer) that can connect to the internet.
-                </h6>
+            <div class="mid-side">
+                "insert infos"
             </div>
         </div>
-        <div class="component-2">
-            <h1>
-                How does it works?
-            </h1>
-            <h6>
-                E-commerce uses ICT to support a business' external relationships and interactions with people,
-                organizations, and other businesses. According to Kütz (2016), mobile commerce, electronic funds
-                transfers, internet marketing, online transaction processing, and automated data collection
-                systems are just a handful of the technologies utilized in e-commerce. Most e-commerce uses the
-                internet for at least one phase of the transaction's life cycle. To simplify, customers visit a website
-                or online store and make purchases using electronic payments. The merchant sends the products
-                or renders the service after receiving the payment (Fuscaldo, 2022).
-            </h6>
-        </div>
-
         <div class="component-3">
-            <h3 class="top-h3"> The 6 Types of E-commerce </h3>
-            <h6 class="top-h6">
-                According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that
-                interact through E-Commerce. Each of these has its usage; some are more prominent than
-                others.
-            </h6>
-            <div class="d-flex align-items-center justify-content-center flex-wrap">
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
-                        <h6> Business to Consumer (B2C) </h6>
-                        <img src="./b1.png" alt="">
-                        <p>
-                            The most common type of
+            <div class="advt-deavt">
+                <h1>
+                    Reasons Why E-Commerce is Considered a
+                    Disruptive Innovation
+                </h1>
+                <div class="adv-comp">
+                    <h4> E-Commerce made transactions simple, and convenient </h4>
+                    <h5>
+                        "insert infos"
+                    </h5>
+                    <ul>
+                        <li>
+                            <h6> 
+                                Shopping without worrying about the schedules of physical stores and leaving the
+                                comfort of their home (Malloy, 2019).
+                            </h6>
+                        </li>
+                        <li>
+                            <h6>
+                                Much cheaper products compared to the products available in malls and/or offers a
+                                variety of much cheaper alternatives (Malloy, 2019).
+                            </h6>
+                        </li>
+                        <li>
+                            <h6>
+                                Having an enormous variety of products that you can easily browse using their gadgets
+                                to see which to purchase without the hassle of roaming around the physical business
+                                establishments (Malloy, 2019).
+                            </h6>
+                        </li>
+                    </ul>
+                </div>
+                <div class="adv-comp article">
+                    <h4>
+                        The trend of e-commerce over time and how it alters the way
+                        consumers, businesses, and the industry operate.
+                    </h4>
+                    <h5>
+                        "insert infos"
+                    </h5>
+                    <img src="./bf1.png" alt="">
+                    <h5>
+                        "insert infos"
 
-                            business model. B2C E-
-                            commerce means that the
-                            
-                            companies sell directly to the
-                            end-user. Amazon is an example
-                            of B2C as it sells its products on
-                            its e-commerce website.
-                            Another is through the use of
-                            their website, such as Linus
-                            Tech Tip’s store.
-                        </p>
-                    </div>
+                        <br>
+                        <br/>
+                        <br>
+                        <br/>
+                        "insert infos"
+                    </h5>
+                    <img src="bf2.png" alt="">
                 </div>
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
-                        <h6> Business to Business (B2B) </h6>
-                        <img src="./b2.png" alt="">
-                        <p>
-                            B2B E-commerce is the
-                            transaction of businesses to other
-                            businesses. An example would be
-                            sourcing products from
-                            manufacturers to wholesalers,
-                            such as selling shoes from a
-                            factory to a shop on an online
-                            platform. Nike and Adidas have
-                            their brand on online platforms
-                            such as Amazon may be an
-                            example of B2B.
-                        </p>
-                    </div>
-                </div>
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
-                        <h6> Business to Government (B2G) </h6>
-                        <img src="./b3.png" alt="">
-                        <p>
-                            B2G E-commerce is the transaction of
-
-                            goods and services through e-
-                            commerce to federal, state, and local
-                            
-                            government bodies. Examples of such
-                            services include Mark 43 where one of
-                            their works has the optimization of a
-                            police cloud data system and Senseware
-                            where their service provides a complete
-                            IoT Technology Stack (includes devices,
-                            communications, protocols, cloud
-                            platform, and applications).
-                        </p>
-                    </div>
-                </div>
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
-                        <h6> Consumer to Consumer (C2C) </h6>
-                        <img src="./b4.png" alt="">
-                        <p>
-                            C2C E-commerce refers to
-                            consumer-to-consumer
-                            transactions. Customers purchase
-                            goods from other customers
-                            through a third-party platform or
-                            business. Some examples of this are
-                            
-                            through the use of online auction-
-                            listing websites and selling
-                            
-                            applications. Some examples of
-                            these are eBay, Mercari, OLX, and
-                            Depop.
-                        </p>
-                    </div>
-                </div>
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
-                        <h6> Consumer to Business (C2B) </h6>
-                        <img src="./b2.png" alt="">
-                        <p>
-                            C2B E-commerce refers to consumer-
-                            to-business transactions. In this e-
-                            commerce model, the consumer
-                            
-                            provides value to the business.
-                            Consumers offer products or services
-                            to businesses in change for payment or
-                            
-                            other benefits. This type of E-
-                            commerce transaction allows the
-                            
-                            consumer and the business to have a
-                            mutually beneficial relationship. An
-                            example of this is an influencer
-                            promoting a business by using affiliate
-                            links.
-                        </p>
-                    </div>
-                </div>
-                <div class="item col-md-3 p-2">
-                    <div class="card h-100">
-                        <h6> Consumer to Government (C2G) </h6>
-                        <img src="./b5.png" alt="">
-                        <p>
-                            C2G E-Commerce refers to the
-                            consumer-to-government business
-                            model. This type of e-commerce bridges
-                            the gap between the citizens and the
-                            government. C2G e-commerce makes
-                            transactions with the government more
-                            accessible and convenient. An example
-                            of this is paying electricity bills through
-                            e-commerce platforms like G-Cash.
-                        </p>
-                    </div>
+                <div class="adv-comp article">
+                    <h4>
+                        The emergence of new platforms for shopping apart from
+                        physical establishments changed the meaning of “shopping”
+                        (without completely replacing those physical establishments
+                        entirely)
+                    </h4>
+                    <h5>
+                        "insert infos"
+                    </h5>
                 </div>
             </div>
             <div class="advt-deavt">
                 <h1>
-                    Advantages and Disadvantages
+                    The Impact of E-commerce on Physical Busines
+                    Establishments
                 </h1>
-                <div class="adv-comp">
-                    <h4> Advantages </h4>
-                    <ul>
-                        <li>
-                            <h5> 1. Larger Market </h5>
-                            <h6> 
-                                E-commerce allows a business to tap into a larger market than a local market, especially
-                                in the age of globalization, Wherein one can have foreign goods delivered to their
-                                doorstep throughout the globe.
-                            </h6>
-                        </li>
-                        <li>
-                            <h5>
-                                2. Personalized Marketing
-                            </h5>
-                            <h6>
-                                E-Commerce allows the personalization of content viewed by consumers.
-                                Recommendations of products based on prior inquiries and personalized messaging are
-                                examples of personalized marketing.
-                            </h6>
-                        </li>
-                        <li>
-                            <h5>
-                                3. Customer Insights
-                            </h5>
-                            <h6>
-                                Most e-commerce platforms showcase the performance data of their stores. This allows
-                                businesses to access customer insights via data analytics.
-                            </h6>
-                        </li>
-                        <li>
-                            <h5>
-                                4. Lower Cost
-                            </h5>
-                            <h6>
-                                The infrastructure needed to start an E-commerce business and advertisement costs
-                                (billboards, flyers, etc.) are significantly lower. Allowing E-commerce businesses to start
-                                with lower investment and operational costs.
-                            </h6>
-                        </li>
-                    </ul>
-                </div>
+                <div class="adv-comp article">
+                    <img src="./bf3.png" alt="">
+                    <h5>
+                        "insert infos"
+                    </h5>
 
-                <div class="deadv-comp">
-                    <h4> Disadvantages </h4>
-                    <ul>
-                        <li>
-                            <h5> 1. Unguaranteed Product Quality </h5>
-                            <h6> 
-                                As a buyer, it is worth noting that the quality of a product may vary among shops. The
-                                goods you may purchase might be damaged en route to your location, or the product is
-                                simply of poor quality. There is no sure way of knowing if the product is good outside of
-                                ratings and reviews from other e-commerce users.
-                            </h6>
-                        </li>
-                        <li>
-                            <h5>
-                                2. Data Breaches and Hacks
-                            </h5>
-                            <h6>
-                                Business platforms could be hacked, which is the harsh reality of online commerce.
-                                Customers want assurance that their financial information is not shared or compromised
-                                when they make an online purchase. Malicious hackers target businesses and
-                                organizations who take customer information from their databases. Not only does this
-                                undermine the trust in the company, but it may also have financial and legal
-                                repercussions.
-                            </h6>
-                        </li>
-                        <li>
-                            <h5>
-                                3. Lack of Credibility
-                            </h5>
-                            <h6>
-                                People and relationships play a large part in business. Because there are fewer face-to-
-                                face interactions in the e-commerce world, developing those relationships can be more
-                                
-                                difficult.
-                            </h6>
-                        </li>
-                        <li>
-                            <h5>
-                                4. Complexity in Regulations
-                            </h5>
-                            <h6>
-                                Online retailers may need to abide by local laws in their nations or states as well as the
-                                residences of their customers when selling to customers in other countries. This might
-                                make accounting, taxation, and compliance very complicated.
-                            </h6>
-                        </li>
-                    </ul>
+                    <h4>
+                        1. Altering How Consumers Operate
+                    </h4>
+                    <h5>
+                        "insert infos"
+                    </h5>
+                    <img src="./bf4.png" alt="">
+
+                    <h5>
+                        "insert infos"
+
+                        <br>
+                        <br/>
+                        <br>
+                        <br/>
+                        "insert infos"
+                        
+                    </h5>
                 </div>
-                
+                <div class="adv-comp article">
+                    <h4>
+                        2. Altered Business
+                    </h4>
+                    <h5>
+                        <span>
+                            2.1 Altered How Business Operates
+                        </span>
+                        <br/>
+                        "insert infos"
+                    </h5>
+                    
+                    <h5>
+                        <span>
+                            2.2 Altered How Business is Conducted
+                        </span>
+                        <br/>
+                        "insert infos"
+                    </h5>
+                </div>
+                <div class="adv-comp article">
+                    <h4>
+                        2. Altered How Industries Operate
+                    </h4>
+                    <h5>
+                        "insert infos"
+                    </h5>
+                </div>
+            </div>
+            <div class="conclusion-form">
+                <h2>
+                    CONCLUSION
+                </h2>
+                <h4>
+                    "insert infos"
+                </h4>
+                <h4>
+                    "insert infos"
+                </h4>
+                <h4>
+                    "insert infos"
+                </h4>
             </div>
         </div>
-    
+        
     </section>
 
+
     <script>
-    function myFunction() {
-      var x = document.getElementById("myTopnav");
-      if (x.className === "topnav") {
-        x.className += " responsive";
-      } else {
-        x.className = "topnav";
-      }
-    }
+        function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+        }
     </script>
 </body>
 </html>
