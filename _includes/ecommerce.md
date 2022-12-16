@@ -79,6 +79,7 @@
                     </div>
                 </div>
             </div>
+        <hr>
                  <div>
         <div style="margin-left:20em;margin-right:20em;">
                 <h3>
