@@ -94,7 +94,6 @@
                     <p>
                         "insert infos"
                     </p>
-
                     <h4>                    
                         <b>
                         1. Altering How Consumers Operate
@@ -134,8 +133,7 @@
 <br>
 <br>                   
 &nbsp &nbsp &nbsp &nbsp   On the other hand, data collection features in e-commerce platforms provide business owners with statistical data about consumers that they can use to scout what products are the most or least popular in their shops. They can also use this data to improve their marketing strategy by including popular keywords related to their product to give them a boost in web searchability. Data collection is then improving the ability of businesses to listen to what the customers want (Liqui-site 2020).
-                    </p>
-                    
+                    </p>              
                     <p>
                         <span>
                             <b><i>
