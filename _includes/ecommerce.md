@@ -11,6 +11,7 @@
                 <img src="insert image" alt="">
             </div>           
         <div class="component-2">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
             <h3>
                 How does it works?
             </h3>
