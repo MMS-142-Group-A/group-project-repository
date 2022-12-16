@@ -79,9 +79,9 @@
                     </div>
                 </div>
             </div>
-        <hr>
                  <div>
         <div style="margin-left:20em;margin-right:20em;">
+               <hr>
                 <h3>
                     Advantages and Disadvantagess
                 </h3>
