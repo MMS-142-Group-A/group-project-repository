@@ -21,6 +21,7 @@
         </div>
 
         <div class="component-3">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
             <h3 class="top-h3"> The 6 Types of E-commerce </h3>
             <h6 class="top-h6">
                 "insert infos"
