@@ -58,16 +58,17 @@
                         consumers, businesses, and the industry operate.</b>
                     </h4>
                     <p>
-                        "insert infos"
+                        In the earliest years of e-commerce, websites like Amazon and eBay already existed (BigCommerce, n.d.). Then, in recent years in the Philippines, buy and sell websites such as Sulit.com.ph became known to Filipinos (Phoebe, 2013). They also had TV commercials. Even Instagram shops and Facebook Marketplace are also already present. And before the pandemic, Shopee was already making noise in the industry (The Manila Times, 2018). But before, these kinds of e-commerce websites didn't seem like a threat to business establishments like malls. However, the pandemic came, which made drastic changes in how customers avail products and services and even how businesses sell products because of the need for a new safe way of transactions without close contact with the people because of the COVID-19 Virus. And E-commerce provided that need at that time. Many businesses went online and built their online presence. This phenomenon was evident in the rising share of digital retail trade in the global market from 14 percent pre-pandemic (2019) to 17 percent during the onset of the pandemic (2020) (UNCTAD, 2021).  
+
                     </p>
                     <img src="insert image" alt="">
                     <p>
-                        "insert infos"
+                        In the Philippines, e-commerce contributed 5.5 percent to the national economy. Thus, it paved the way for MSMEs to recover from the repercussions of the pandemic, where it can be remembered that they were forced to stop or pause their business operations (Humarang, 2022). With the help of online business platforms, local businesses were able to continue their operations, and it even created new opportunities for new firms to enter the market. Hani (2021) stated in their article that e-commerce and the digital economy took the spot of one of the key engines of economic growth in the country, whereas, from 599 billion pesos in 2020, the contribution of e-commerce in GDP grew to 1.2 trillion pesos in 2022. 
                         <br>
                         <br/>
                         <br>
                         <br/>
-                        "insert infos"
+                       Now because of its convenience, it is still popular, from buy-and-sell websites and online live selling to applications like Lazada, Zalora, and FoodPanda. As e-commerce expands and as the growth in its sales increases, it will continue to surpass its incumbent.
                     </p>
                     <img src="insert image" alt="">
                 </div>
