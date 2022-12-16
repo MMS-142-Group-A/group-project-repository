@@ -17,6 +17,63 @@
                 "insert infos"
             </p>
        </div>
+             <div class="d-flex align-items-center justify-content-center flex-wrap">
+                <div class="item col-md-3 p-2">
+                    <div class="card h-100">
+                        <h6> Business to Consumer (B2C) </h6>
+                        <img src="insert images" alt="">
+                        <p>
+                            "insert infos"
+                        </p>
+                    </div>
+                </div>
+                <div class="item col-md-3 p-2">
+                    <div class="card h-100">
+                        <h6> Business to Business (B2B) </h6>
+                        <img src="insert image" alt="">
+                        <p>
+                            "insert infos"
+                        </p>
+                    </div>
+                </div>
+                <div class="item col-md-3 p-2">
+                    <div class="card h-100">
+                        <h6> Business to Government (B2G) </h6>
+                        <img src="insert image" alt="">
+                        <p>
+                            "insert infos"
+                        </p>
+                    </div>
+                </div>
+                <div class="item col-md-3 p-2">
+                    <div class="card h-100">
+                        <h6> Consumer to Consumer (C2C) </h6>
+                        <img src="insert image" alt="">
+                        <p>
+                            "insert infos"
+                        </p>
+                    </div>
+                </div>
+                <div class="item col-md-3 p-2">
+                    <div class="card h-100">
+                        <h6> Consumer to Business (C2B) </h6>
+                        <img src="insert image" alt="">
+                        <p>
+                            "insert infos"
+                        </p>
+                    </div>
+                </div>
+                <div class="item col-md-3 p-2">
+                    <div class="card h-100">
+                        <h6> Consumer to Government (C2G) </h6>
+                        <img src="insert image" alt="">
+                        <p>
+                            "insert infos"
+                        </p>
+                    </div>
+                </div>
+            </div>
+            
             
             
             
