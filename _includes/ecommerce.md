@@ -82,6 +82,8 @@
               <div class="margin-left:20em;margin-right:20em;">   
                   <hr>
                 <h3>
+                    <br>
+                    <br>
                     Advantages and Disadvantages
                 </h3>
             <ul>
