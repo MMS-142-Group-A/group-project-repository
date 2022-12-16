@@ -73,9 +73,7 @@
                     </div>
                 </div>
             </div>
-                <h3>
-                    Advantages and Disadvantages
-                </h3>
+                
             <div class="advt-deavt">
                 <div class="col-lg-8 col-lg-offset-2 text-side">
                 <h3>
