@@ -8,7 +8,6 @@
             </div>
         </div>
     </div>
-</section>
 <body>
         <img src="insert image" alt="">  
         <div class="components">
@@ -152,5 +151,5 @@
 &nbsp &nbsp &nbsp &nbsp Business owners do not need a physical store to conduct business and those that switch to online platforms are leaving behind a lot of vacancies from their previous locations (e.g. shopping malls, renting spaces). These malls that used to house businesses are not exactly receiving regression, rather they are predicted to adapt to the changes brought up by e-commerce. According to Kodali (2022), these malls will shift to hosting more physical service-based businesses instead of product-based shops. Product-based shops either switch to e-commerce or exist in both e-commerce and physical stores, thus the establishment will cater these type of tenants. Malls will adapt by welcoming more occupants that will use the spaces for civic activity offices, hair salons, clinics (for people/pets), gyms, and other in person services to fill in the vacant spaces. In return, it will change how people envisioned malls and those of the similar operational industry.
                     </h5>
                 </div> 
-</body>
+ </body>
 </section>
