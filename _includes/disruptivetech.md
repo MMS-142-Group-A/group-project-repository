@@ -10,7 +10,7 @@
     </div>
 <body>
         <img src="insert image" alt=""> 
-        <div style="margin-left:5em;margin-right:5em;">
+        <div style="margin-left:10em;margin-right:10em;">
         <div class="components">
             <div class="mid-side">
                 "insert infos"
