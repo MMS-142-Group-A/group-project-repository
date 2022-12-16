@@ -24,6 +24,7 @@
                     Disruptive Innovation
                     </b>
                 </h3>
+                <br>
                 <div class="adv-comp">
                     <h4><b>1. E-Commerce made transactions simple, and convenient </b></h4>
                     <p>
