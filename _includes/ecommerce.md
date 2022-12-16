@@ -89,14 +89,14 @@
                   </li>
                     <ul>
                         <li>
-                            <h4> 1. Larger Market </h4>
+                            <h4>Larger Market </h4>
                             <p class= "text-faded"> 
                                 "insert infos"
                             </p>
                         </li>
                         <li>
                             <h4>
-                                2. Personalized Marketing
+                            Personalized Marketing
                             </h4>
                             <p class= "text-faded">
                                 "insert infos"
@@ -104,7 +104,7 @@
                         </li>
                         <li>
                             <h4>
-                                3. Customer Insights
+                            Customer Insights
                             </h4>
                             <p class= "text-faded">
                                 "insert infos"
@@ -112,7 +112,7 @@
                         </li>
                         <li>
                             <h4>
-                                4. Lower Cost
+                            Lower Cost
                             </h4>
                             <p class= "text-faded">
                                 "insert infos"
@@ -122,38 +122,38 @@
                 </ul>
              <ul>
                  <li>
-                    <h4> Disadvantages </h4>
+                    <h3> Disadvantages </h3>
                      </li>
                         <ul>
                         <li>
-                            <h5> 1. Unguaranteed Product Quality </h5>
-                            <h6> 
+                            <h3>Unguaranteed Product Quality </h4>
+                            <p> 
                                 "insert infos"
-                            </h6>
+                            </p>
                         </li>
                         <li>
-                            <h5>
+                            <h4>
                                 2. Data Breaches and Hacks
-                            </h5>
-                            <h6>
+                            </h4>
+                            <p>
                                 "insert infos"
-                            </h6>
+                            </p>
                         </li>
                         <li>
-                            <h5>
-                                3. Lack of Credibility
-                            </h5>
-                            <h6>
+                            <h4>
+                             Lack of Credibility
+                            </h4>
+                            <p>
                                 "insert infos"
-                            </h6>
+                            </p>
                         </li>
                         <li>
-                            <h5>
-                                4. Complexity in Regulations
-                            </h5>
-                            <h6>
+                            <h4>
+                            Complexity in Regulations
+                            </h4>
+                            <p>
                                 "insert infos"
-                            </h6>
+                            </p>
                         </li>
                     </ul>
                 </div>
