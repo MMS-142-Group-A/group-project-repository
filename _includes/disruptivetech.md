@@ -14,7 +14,7 @@
         <img src="insert image" alt="">  
         <div class="components">
             <div class="mid-side">
-                "insert infos"
+                "insert infoss"
         </div>            
         <div class="component-3">
             <div class="advt-deavt">
