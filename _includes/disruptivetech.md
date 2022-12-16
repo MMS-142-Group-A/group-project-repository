@@ -2,6 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
+                <div style="margin-left:5em;">
                 <h2 class="section-heading">E-commerce as a Disruptive Technology</h2>
                 <hr class="primary">
                 </div>
