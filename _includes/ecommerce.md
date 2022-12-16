@@ -5,28 +5,19 @@
                 <h2 class="section-heading">What is E-commerce?</h2>
                 <hr class="light">
                 <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-
        </div>
         <div class="components">
             <div class="img-side">
                 <img src="insert image" alt="">
             </div>
-            <div class="text-side">
-                <h3>
-                    What is E-commerce?
-                </h1>
-                <h6>
-                    "insert infos"
-                </h6>
-            </div>
-        </div>
+           
         <div class="component-2">
-            <h1>
+            <h3>
                 How does it works?
-            </h1>
-            <h6>
+            </h3>
+            <p>
                 "insert infos"
-            </h6>
+            </p>
         </div>
 
         <div class="component-3">
