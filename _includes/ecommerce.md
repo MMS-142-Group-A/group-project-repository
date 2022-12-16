@@ -73,8 +73,13 @@
                     </div>
                 </div>
             </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                <div style="margin-left:5em;margin-right:5em;">
+             </div>
+        </div>
+    </div>
+    
+ </section>
+ <section>
+                <div style="margin-left:10em;margin-right:10em;">
                 <h3>
                     Advantages and Disadvantagess
                 </h3>
@@ -148,9 +153,7 @@
                 
             </div>
         </div> 
-            </div>
-        </div>
-    </div>
+           
           <div class="col-lg-8 col-lg-offset-2 text-center">
              <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
           </div>                                                
