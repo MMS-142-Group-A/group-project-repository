@@ -10,7 +10,7 @@
             </div>
         </div>
     <div>
-        <div style="margin-left:10em;margin-right:10em;">
+        <div style="margin-left:20em;margin-right:20em;">
                 <h3>
                 How does it works?
                 </h3>
@@ -79,7 +79,7 @@
                 </div>
             </div>
             
-                <div style="margin-left:10em;margin-right:10em;">
+                <div style="margin-left20em;margin-right:20em;">
                 <h3>
                     Advantages and Disadvantages
                 </h3>
