@@ -16,8 +16,8 @@
                 <p class="top-h6">
                 "insert infos"
             </p>
-       </div>
-             <div class="d-flex align-items-center justify-content-center flex-wrap">
+            </div>
+                <div class="d-flex align-items-center justify-content-center flex-wrap">
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
@@ -26,7 +26,7 @@
                             "insert infos"
                         </p>
                     </div>
-                </div>
+                 </div>
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Business to Business (B2B) </h6>
@@ -74,11 +74,13 @@
                 </div>
             </div>
             <div class="advt-deavt">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
+                <div class="col-lg-8 col-lg-offset-2 text-side">
                 <h3>
                     Advantages and Disadvantages
                 </h3>
-                <div class="adv-comp">
+                <h3> Advantages </h3>
+                    
+                    <div class="adv-comp">
                     <h3> Advantages </h3>
                     <ul>
                         <li>
