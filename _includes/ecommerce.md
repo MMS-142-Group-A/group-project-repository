@@ -80,7 +80,7 @@
                 </div>
             </div>
         <div>
-         <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">       
+         <div class="bg-primary;col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">       
                 <h3>
                 How does it works?
                 </h3>
