@@ -136,7 +136,8 @@
                             2.2 Altered How Business is Conducted
                              </i></b>
                         </span>
-                        <br>
+<br>
+<br>
 &nbsp &nbsp &nbsp &nbsp    Transactions are becoming more flexible because of e-commerce, consumers are much smarter because of ability to compare prices of similar products from different shops that are instantly available in one platform instead of canvassing them separately. Meanwhile, businesses are forced to open up several payment methods to accommodate the preferences of each consumer (Dey, 2022).
                     </h5>
                 </div>
