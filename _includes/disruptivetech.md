@@ -51,10 +51,10 @@
                     </ul>
                 </div>
                 <div class="adv-comp article">
-                    <h3>
+                    <h4>
                        <b> 2. The trend of e-commerce over time and how it alters the way
                         consumers, businesses, and the industry operate.</b>
-                    </h3>
+                    </h4>
                     <p>
                         "insert infos"
                     </p>
@@ -83,8 +83,8 @@
             </div>
             <div class="advt-deavt">
                 <h3>
-                    The Impact of E-commerce on Physical Busines
-                    Establishments
+                    <b>The Impact of E-commerce on Physical Busines
+                    Establishments</b>
                 </h3>
                 <div class="adv-comp article">
                     <img src="insert image" alt="">
