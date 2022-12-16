@@ -15,13 +15,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                 E-commerce uses ICT to support a business' external relationships and interactions with people,
-                organizations, and other businesses. According to Kütz (2016), mobile commerce, electronic funds
-                transfers, internet marketing, online transaction processing, and automated data collection
-                systems are just a handful of the technologies utilized in e-commerce. Most e-commerce uses the
-                internet for at least one phase of the transaction's life cycle. To simplify, customers visit a website
-                or online store and make purchases using electronic payments. The merchant sends the products
-                or renders the service after receiving the payment (Fuscaldo, 2022).
+                 "insert infos"
                 </p>
             <hr>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
