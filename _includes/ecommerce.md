@@ -112,9 +112,6 @@
                             </p>
                         </li>
                     </ul>
-                </div>
-
-                <div class="deadv-comp">
                     <h4> Disadvantages </h4>
                     <ul>
                         <li>
