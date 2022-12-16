@@ -18,17 +18,19 @@
         <div class="component-3">
             <div class="advt-deavt">
                 <h3>
-                    Reasons Why E-Commerce is Considered aa
+                    <b>
+                    Reasons Why E-Commerce is Considered a
                     Disruptive Innovation
                 </h3>
                 <div class="adv-comp">
                     <h4> E-Commerce made transactions simple, and convenient </h4>
                     <p>
-                        "insert info"
+                        Disruptive technology is not about upgrading services or products, which is what sustaining innovation is all about. Disruptive innovation is about making new services or products that are simple and cheap that meet the needs of customers, which makes them more available in the market. E-commerce is like that. Compared to physical shopping establishments, it offers accessibility to transactions making it simple, which is what customers need. The simplicity and accessibility of E-commerce are evident through…
+
                     </p>
                     <ul>
                         <li>
-                            <p<body style="margin-left:5em;margin-right:5em;">> 
+                            <p>
                                 Shopping without worrying about the schedules of physical stores and leaving the
                                 comfort of their home (Malloy, 2019).
                             </p>
