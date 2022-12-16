@@ -80,7 +80,7 @@
                 </div>
             </div>
                  <div>
-        <div style="margin-left:20em;margin-right:20em;">
+        <div class="col-lg-8 col-lg-offset-2 text-left;margin-left:20em;margin-right:20em;">
                <hr>
                 <h3>
                     Advantages and Disadvantages
