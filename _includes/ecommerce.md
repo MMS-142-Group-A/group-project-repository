@@ -152,5 +152,7 @@
             </div>
         </div>
     </div>
+          <div class="col-lg-8 col-lg-offset-2 text-center">
              <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
+          </div>                                                
 </section>
