@@ -12,7 +12,7 @@
                 <img src="insert image" alt="">
             </div>
             <div class="text-side">
-                <h1>
+                <h3>
                     What is E-commerce?
                 </h1>
                 <h6>
@@ -167,13 +167,8 @@
                 </div>
                 
             </div>
-        </div>
-    
-    </section>
-
-    <script>
- 
-               
+        </div> 
+            
                 <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
             </div>
         </div>
