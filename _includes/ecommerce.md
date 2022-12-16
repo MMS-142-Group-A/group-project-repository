@@ -78,10 +78,10 @@
     </div>
     
  </section>
- <section>
+ <section class="bg-primary">
                 <div style="margin-left:10em;margin-right:10em;">
                 <h3>
-                    Advantages and Disadvantagess
+                    Advantages and Disadvantages
                 </h3>
                 <h3> Advantages </h3>
                     <ul>
