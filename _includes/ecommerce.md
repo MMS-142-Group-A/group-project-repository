@@ -11,7 +11,10 @@
                 </h3>
                 <p>
                 "insert infos"
-                 </p>
+                </p>
+                <div class="container">
+                 <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 text-side">
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
                 <p class="top-h6">
                 "insert infos"
@@ -73,15 +76,15 @@
                     </div>
                 </div>
             </div>
+                <h3>
+                    Advantages and Disadvantages
+                </h3>
             <div class="advt-deavt">
                 <div class="col-lg-8 col-lg-offset-2 text-side">
                 <h3>
                     Advantages and Disadvantages
                 </h3>
                 <h3> Advantages </h3>
-                    
-                    <div class="adv-comp">
-                    <h3> Advantages </h3>
                     <ul>
                         <li>
                             <h4> 1. Larger Market </h4>
