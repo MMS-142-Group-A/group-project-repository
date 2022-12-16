@@ -81,13 +81,6 @@
             </div>
         <div>
          <div class="bg-primary;col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">       
-                <h3>
-                How does it works?
-                </h3>
-                <p class="text-faded">
-                "insert infoss"
-                </p>
-            <hr>
                 <h3 class="top-h3"> Advantages and Disadvantages</h3>         
             <ul>
                  <li>
