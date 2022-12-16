@@ -9,12 +9,11 @@
         </div>
     </div>
 </section>
-<body>   
-    <body style="margin-left:5em;margin-right:5em;">
+<body>
         <img src="insert image" alt="">  
         <div class="components">
             <div class="mid-side">
-                "insert infoss"
+                "insert infosh"
         </div>            
         <div class="component-3">
             <div class="advt-deavt">
