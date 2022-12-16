@@ -10,7 +10,7 @@
     </div>
 </section>
 <body>   
-    <body style="margin-left:5em;">
+    <body style="margin-left:5em;margin-right:5em;">
         <img src="insert image" alt="">  
         <div class="components">
             <div class="mid-side">
