@@ -22,7 +22,7 @@
                 "insert infos"
             </p>
             </div>
-                <div class="d-flex align-items-center justify-content-center flex-wrap">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
