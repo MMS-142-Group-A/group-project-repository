@@ -13,7 +13,7 @@
         <div style="margin-left:5em;margin-right:5em;">
         <div class="components">
             <div class="mid-side">
-                "insert infos"
+                "insert infoss"
         </div>            
         <div class="component-3">
             <div style="margin-left:5em;margin-right:5em;">
