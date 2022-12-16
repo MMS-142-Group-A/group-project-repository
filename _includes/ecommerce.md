@@ -73,12 +73,7 @@
                     </div>
                 </div>
             </div>
-             </div>
-        </div>
-    </div>
-    
- </section>
- <section class="bg-primary">
+            
                 <div style="margin-left:10em;margin-right:10em;">
                 <h3>
                     Advantages and Disadvantages
