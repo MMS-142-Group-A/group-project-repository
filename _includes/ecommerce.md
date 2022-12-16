@@ -76,6 +76,7 @@
                 
             <div class="advt-deavt">
                 <div class="col-lg-8 col-lg-offset-2 text-left">
+                <div style="margin-left:5em;">
                 <h3>
                     Advantages and Disadvantages
                 </h3>
