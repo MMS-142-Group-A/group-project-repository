@@ -13,13 +13,12 @@
         <div style="margin-left:5em;margin-right:5em;">
         <div class="components">
             <div class="mid-side">
-                "insert infoss"
+                "insert infos"
         </div>            
         <div class="component-3">
-            <div style="margin-left:5em;margin-right:5em;">
             <div class="advt-deavt">
                 <h3>
-                    Reasons Why E-Commerce is Considered a
+                    Reasons Why E-Commerce is Considered aa
                     Disruptive Innovation
                 </h3>
                 <div class="adv-comp">
