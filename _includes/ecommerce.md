@@ -83,11 +83,9 @@
                   <hr>
                 <h3>
                     <br>
+                    <br/>
                     <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
+                    <br/>
                     Advantages and Disadvantages
                 </h3>
             <ul>
