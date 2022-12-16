@@ -95,19 +95,21 @@
                         </b>
                     </h4>
                     <h5>
-                      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space 2022). 
+                        <span>
+                            <b><i>
+&nbsp &nbsp &nbsp &nbsp      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space 2022). 
 
                     </h5>
                     <img src="insert image" alt="">
 
                     <h5>
-                        With the consumer at the center of the system, the expectations of the consumers have also shifted. Similar to other online platforms, e-commerce is a learning system made to cater individuals by learning from their activity within the interface in order to create a mindset that the shopping experience should be a personalized one. Such subconscious influence to their mindset creates a greater expectation of consumers to companies and other shops to make their experience personalized (ESW 2022). 
+&nbsp &nbsp &nbsp &nbsp      With the consumer at the center of the system, the expectations of the consumers have also shifted. Similar to other online platforms, e-commerce is a learning system made to cater individuals by learning from their activity within the interface in order to create a mindset that the shopping experience should be a personalized one. Such subconscious influence to their mindset creates a greater expectation of consumers to companies and other shops to make their experience personalized (ESW 2022). 
 
                         <br>
                         <br/>
                         <br>
                         <br/>
-                        Lastly, e-commerce has altered shopping to be a social activity for the consumers packaged in a form similar to the social media experience. Rather than taking brands at face value or how the brand advertise themselves, consumers are more trusting of the reviews of products that strangers provide. Because of the social engagements that happen within e-commerce platforms, consumers are making more informed decisions on buying particular products from different brands and shops (ESW 2022). On the other hand, impulse buying was recorded worldwide to spike due to the online platform, especially since there were discount or voucher strategies that were implemented (Dujardin, 2022)
+&nbsp &nbsp &nbsp &nbsp       Lastly, e-commerce has altered shopping to be a social activity for the consumers packaged in a form similar to the social media experience. Rather than taking brands at face value or how the brand advertise themselves, consumers are more trusting of the reviews of products that strangers provide. Because of the social engagements that happen within e-commerce platforms, consumers are making more informed decisions on buying particular products from different brands and shops (ESW 2022). On the other hand, impulse buying was recorded worldwide to spike due to the online platform, especially since there were discount or voucher strategies that were implemented (Dujardin, 2022)
                    
                     </h5>
                 </div>
