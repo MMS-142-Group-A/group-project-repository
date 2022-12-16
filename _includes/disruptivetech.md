@@ -13,9 +13,10 @@
         <img src="insert image" alt="">  
         <div class="components">
             <div class="mid-side">
-                "insert infosh"
+                "insert infos"
         </div>            
         <div class="component-3">
+            <div style="margin-left:5em;margin-right:5em;">
             <div class="advt-deavt">
                 <h3>
                     Reasons Why E-Commerce is Considered a
@@ -24,11 +25,11 @@
                 <div class="adv-comp">
                     <h4> E-Commerce made transactions simple, and convenient </h4>
                     <p>
-                        "insert infos"
+                        "insert info"
                     </p>
                     <ul>
                         <li>
-                            <p> 
+                            <p<body style="margin-left:5em;margin-right:5em;">> 
                                 Shopping without worrying about the schedules of physical stores and leaving the
                                 comfort of their home (Malloy, 2019).
                             </p>
