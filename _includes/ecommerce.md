@@ -73,7 +73,7 @@
                     </div>
                 </div>
             </div>
-                
+                <div class="col-lg-8 col-lg-offset-2 text-center">
                 <div style="margin-left:5em;margin-right:5em;">
                 <h3>
                     Advantages and Disadvantagess
