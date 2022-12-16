@@ -27,7 +27,6 @@
                     <h4> E-Commerce made transactions simple, and convenient </h4>
                     <p>
                         Disruptive technology is not about upgrading services or products, which is what sustaining innovation is all about. Disruptive innovation is about making new services or products that are simple and cheap that meet the needs of customers, which makes them more available in the market. E-commerce is like that. Compared to physical shopping establishments, it offers accessibility to transactions making it simple, which is what customers need. The simplicity and accessibility of E-commerce are evident through…
-
                     </p>
                     <ul>
                         <li>
