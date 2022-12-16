@@ -80,14 +80,7 @@
                 </div>
             </div>
         <div>
-                </div>
-            </div>
-        </div> 
-          <div class="col-lg-8 col-lg-offset-2 text-center">
-             <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
-          </div>                                                
-</section>
- <section class="bg-primary;col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">       
+            <section class="bg-primary;col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">       
                 <h3 class="top-h3"> Advantages and Disadvantages</h3>         
             <ul>
                  <li>
@@ -163,4 +156,12 @@
                         </li>
                     </ul>
                   </div>
-    </section>
+                </div>
+            </div>
+        </div> 
+          <div class="col-lg-8 col-lg-offset-2 text-center">
+             <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
+          </div>                                                
+</section>
+
+
