@@ -9,7 +9,7 @@
         </div>
     </div>
 <body>
-        <img src="https://github.com/MMS-142-Group-A/group-project-repository/blob/master/visuals%2C%20bg%2C%20%26%20graphics/bg%201.png" alt=""> 
+        <img src="" alt=""> 
         <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">
         <div class="components">
             <div class="mid-side">
