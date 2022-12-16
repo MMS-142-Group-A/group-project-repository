@@ -6,6 +6,11 @@
                 <hr class="light">
                 <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
                 <img src="insert image" alt="">
+               </div>
+            </div>
+        </div>
+    <div>
+        <div style="margin-left:10em;margin-right:10em;">
                 <h3>
                 How does it works?
                 </h3>
