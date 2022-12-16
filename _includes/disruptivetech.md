@@ -156,22 +156,6 @@
                         "insert infos"
                     </h5>
                 </div>
-            </div>
-            <div class="conclusion-form">
-                <h2>
-                    CONCLUSION
-                </h2>
-                <h4>
-                    "insert infos"
-                </h4>
-                <h4>
-                    "insert infos"
-                </h4>
-                <h4>
-                    "insert infos"
-                </h4>
-            </div>
-        </div>
         
     </section>
 
