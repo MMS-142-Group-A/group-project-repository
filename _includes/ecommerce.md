@@ -83,7 +83,10 @@
                 <h3>
                     Advantages and Disadvantages
                 </h3>
+            <ul>
+                 <li>
                 <h3> Advantages </h3>
+                  </li>
                     <ul>
                         <li>
                             <h4> 1. Larger Market </h4>
@@ -116,8 +119,12 @@
                             </p>
                         </li>
                     </ul>
+                </ul>
+             <ul>
+                 <li>
                     <h4> Disadvantages </h4>
-                    <ul>
+                     </ul>
+                        <ul>
                         <li>
                             <h5> 1. Unguaranteed Product Quality </h5>
                             <h6> 
