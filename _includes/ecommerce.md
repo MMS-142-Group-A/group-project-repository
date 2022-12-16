@@ -9,7 +9,6 @@
                </div>
             </div>
         </div>
-    <div>
          <div class="bg-primary">       
                 <h3>
                 How does it works?
