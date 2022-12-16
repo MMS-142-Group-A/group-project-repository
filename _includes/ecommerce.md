@@ -9,8 +9,7 @@
         <div class="components">
             <div class="img-side">
                 <img src="insert image" alt="">
-            </div>
-           
+            </div>           
         <div class="component-2">
             <h3>
                 How does it works?
