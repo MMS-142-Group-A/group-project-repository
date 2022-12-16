@@ -94,9 +94,7 @@
                         1. Altering How Consumers Operate
                         </b>
                     </h4>
-                    <h5>
-                        <span>
-                            <b><i>
+                    <h5>             
 &nbsp &nbsp &nbsp &nbsp      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space 2022). 
 
                     </h5>
