@@ -24,7 +24,7 @@
                     </b>
                 </h3>
                 <div class="adv-comp">
-                    <h4> E-Commerce made transactions simple, and convenient </h4>
+                    <h4><b>1. E-Commerce made transactions simple, and convenient </b></h4>
                     <p>
                         Disruptive technology is not about upgrading services or products, which is what sustaining innovation is all about. Disruptive innovation is about making new services or products that are simple and cheap that meet the needs of customers, which makes them more available in the market. E-commerce is like that. Compared to physical shopping establishments, it offers accessibility to transactions making it simple, which is what customers need. The simplicity and accessibility of E-commerce are evident through…
                     </p>
@@ -52,8 +52,8 @@
                 </div>
                 <div class="adv-comp article">
                     <h3>
-                        The trend of e-commerce over time and how it alters the way
-                        consumers, businesses, and the industry operate.
+                       <b> 2. The trend of e-commerce over time and how it alters the way
+                        consumers, businesses, and the industry operate.</b>
                     </h3>
                     <p>
                         "insert infos"
@@ -71,45 +71,45 @@
                 </div>
                 <div class="adv-comp article">
                     <h4>
-                        The emergence of new platforms for shopping apart from
+                      <b> 3. The emergence of new platforms for shopping apart from
                         physical establishments changed the meaning of “shopping”
                         (without completely replacing those physical establishments
-                        entirely)
+                        entirely)</b>
                     </h4>
-                    <h5>
+                    <p>
                         "insert infos"
-                    </h5>
+                    </p>
                 </div>
             </div>
             <div class="advt-deavt">
-                <h1>
+                <h3>
                     The Impact of E-commerce on Physical Busines
                     Establishments
-                </h1>
+                </h3>
                 <div class="adv-comp article">
                     <img src="insert image" alt="">
-                    <h5>
+                    <p>
                         "insert infos"
-                    </h5>
+                    </p>
 
                     <h4>                    
                         <b>
                         1. Altering How Consumers Operate
                         </b>
                     </h4>
-                    <h5>             
+                    <p>             
 &nbsp &nbsp &nbsp &nbsp      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space 2022). 
 
-                    </h5>
+                    </p>
                     <img src="insert image" alt="">
 
-                    <h5>
+                    <p>
 &nbsp &nbsp &nbsp &nbsp      With the consumer at the center of the system, the expectations of the consumers have also shifted. Similar to other online platforms, e-commerce is a learning system made to cater individuals by learning from their activity within the interface in order to create a mindset that the shopping experience should be a personalized one. Such subconscious influence to their mindset creates a greater expectation of consumers to companies and other shops to make their experience personalized (ESW 2022). 
 <br>
 <br/>
 &nbsp &nbsp &nbsp &nbsp       Lastly, e-commerce has altered shopping to be a social activity for the consumers packaged in a form similar to the social media experience. Rather than taking brands at face value or how the brand advertise themselves, consumers are more trusting of the reviews of products that strangers provide. Because of the social engagements that happen within e-commerce platforms, consumers are making more informed decisions on buying particular products from different brands and shops (ESW 2022). On the other hand, impulse buying was recorded worldwide to spike due to the online platform, especially since there were discount or voucher strategies that were implemented (Dujardin, 2022)
                    
-                    </h5>
+                    </p>
                 </div>
                 <div class="adv-comp article">
                     <h4>
@@ -117,7 +117,7 @@
                         2. Altered Business
                         </b>
                     </h4>
-                    <h5>
+                    <p>
                         <span>
                             <b><i>
                             2.1 Altered How Business Operates
@@ -132,9 +132,9 @@
 <br>
 <br>                   
 &nbsp &nbsp &nbsp &nbsp   On the other hand, data collection features in e-commerce platforms provide business owners with statistical data about consumers that they can use to scout what products are the most or least popular in their shops. They can also use this data to improve their marketing strategy by including popular keywords related to their product to give them a boost in web searchability. Data collection is then improving the ability of businesses to listen to what the customers want (Liqui-site 2020).
-                    </h5>
+                    </p>
                     
-                    <h5>
+                    <p>
                         <span>
                             <b><i>
                             2.2 Altered How Business is Conducted
@@ -143,17 +143,17 @@
 <br>
 <br>
 &nbsp &nbsp &nbsp &nbsp    Transactions are becoming more flexible because of e-commerce, consumers are much smarter because of ability to compare prices of similar products from different shops that are instantly available in one platform instead of canvassing them separately. Meanwhile, businesses are forced to open up several payment methods to accommodate the preferences of each consumer (Dey, 2022).
-                    </h5>
+                    </p>
                 </div>
                 <div class="adv-comp article">
                     <h4>
-                        <b>
+                        <b><i>
                         3. Altered How Industries Operate
-                        </b>
+                       </i> </b>
                     </h4>
-                    <h5>
+                    <p>
 &nbsp &nbsp &nbsp &nbsp Business owners do not need a physical store to conduct business and those that switch to online platforms are leaving behind a lot of vacancies from their previous locations (e.g. shopping malls, renting spaces). These malls that used to house businesses are not exactly receiving regression, rather they are predicted to adapt to the changes brought up by e-commerce. According to Kodali (2022), these malls will shift to hosting more physical service-based businesses instead of product-based shops. Product-based shops either switch to e-commerce or exist in both e-commerce and physical stores, thus the establishment will cater these type of tenants. Malls will adapt by welcoming more occupants that will use the spaces for civic activity offices, hair salons, clinics (for people/pets), gyms, and other in person services to fill in the vacant spaces. In return, it will change how people envisioned malls and those of the similar operational industry.
-                    </h5>
+                    </p>
                 </div> 
  </body>
 </section>
