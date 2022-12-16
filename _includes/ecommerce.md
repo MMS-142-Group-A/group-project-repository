@@ -9,7 +9,7 @@
                 <h3>
                 How does it works?
                 </h3>
-                <p "text-faded">
+                <p class="text-faded">
                 "insert infos"
                 </p>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -84,7 +84,7 @@
                     <ul>
                         <li>
                             <h4> 1. Larger Market </h4>
-                            <p "text-faded"> 
+                            <p class= "text-faded"> 
                                 "insert infos"
                             </p>
                         </li>
@@ -92,7 +92,7 @@
                             <h4>
                                 2. Personalized Marketing
                             </h4>
-                            <p "text-faded">
+                            <p class= "text-faded">
                                 "insert infos"
                             </p>
                         </li>
@@ -100,7 +100,7 @@
                             <h4>
                                 3. Customer Insights
                             </h4>
-                            <p "text-faded">
+                            <p class= "text-faded">
                                 "insert infos"
                             </p>
                         </li>
@@ -108,7 +108,7 @@
                             <h4>
                                 4. Lower Cost
                             </h4>
-                            <p "text-faded">
+                            <p class= "text-faded">
                                 "insert infos"
                             </p>
                         </li>
