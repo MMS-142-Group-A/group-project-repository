@@ -21,6 +21,7 @@
                     <b>
                     Reasons Why E-Commerce is Considered a
                     Disruptive Innovation
+                    </b>
                 </h3>
                 <div class="adv-comp">
                     <h4> E-Commerce made transactions simple, and convenient </h4>
