@@ -5,7 +5,6 @@
                    <br> <br> <br>
               <h3>Conclusion</h3>
                    <hr>
-                   dgsgfsgfhhdhg
           </div>
       </div>
   </aside>
