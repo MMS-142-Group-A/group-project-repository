@@ -53,6 +53,7 @@
                     </ul>
                 </div>
                 <div class="adv-comp article">
+                    <br>
                     <h4>
                        <b> 2. The trend of e-commerce over time and how it alters the way
                         consumers, businesses, and the industry operate.</b>
