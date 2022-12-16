@@ -23,9 +23,9 @@
         <div class="component-3">
             <div class="col-lg-8 col-lg-offset-2 text-center">
             <h3 class="top-h3"> The 6 Types of E-commerce </h3>
-            <h6 class="top-h6">
+            <p class="top-h6">
                 "insert infos"
-            </h6>
+            </p>
             <div class="d-flex align-items-center justify-content-center flex-wrap">
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
@@ -83,41 +83,42 @@
                 </div>
             </div>
             <div class="advt-deavt">
-                <h1>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                <h3>
                     Advantages and Disadvantages
-                </h1>
+                </h3>
                 <div class="adv-comp">
-                    <h4> Advantages </h4>
+                    <h3> Advantages </h3>
                     <ul>
                         <li>
-                            <h5> 1. Larger Market </h5>
-                            <h6> 
+                            <h4> 1. Larger Market </h4>
+                            <p> 
                                 "insert infos"
-                            </h6>
+                            </p>
                         </li>
                         <li>
-                            <h5>
+                            <h4>
                                 2. Personalized Marketing
-                            </h5>
-                            <h6>
+                            </h4>
+                            <p>
                                 "insert infos"
-                            </h6>
+                            </p>
                         </li>
                         <li>
-                            <h5>
+                            <h4>
                                 3. Customer Insights
-                            </h5>
-                            <h6>
+                            </h4>
+                            <p>
                                 "insert infos"
-                            </h6>
+                            </p>
                         </li>
                         <li>
-                            <h5>
+                            <h4>
                                 4. Lower Cost
-                            </h5>
-                            <h6>
+                            </h4>
+                            <p>
                                 "insert infos"
-                            </h6>
+                            </p>
                         </li>
                     </ul>
                 </div>
