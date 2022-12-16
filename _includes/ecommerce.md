@@ -75,7 +75,7 @@
             </div>
                 
             <div class="advt-deavt">
-                <div class="col-lg-8 col-lg-offset-2 text-side">
+                <div class="col-lg-8 col-lg-offset-2 text-left">
                 <h3>
                     Advantages and Disadvantages
                 </h3>
