@@ -79,6 +79,7 @@
                     </div>
                 </div>
             </div>
+        <div>
               <div class="margin-left:20em;margin-right:20em;">        
                 <h3>
                     Advantages and Disadvantages
