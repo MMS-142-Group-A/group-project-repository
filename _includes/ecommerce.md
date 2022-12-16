@@ -15,15 +15,15 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                 "insert infoss"
+                "insert infoss"
                 </p>
-            </div>
-         <div class="component-3;col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">
+            <hr>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
                 <p class="text-faded">
                 "insert infos"
             </p>
-             <div class="d-flex align-items-center justify-content-center flex-wrap">
+            </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">  
                 <div class="item col-md-3 p-2">
                     <div class="card h-100">
                         <h6> Business to Consumer (B2C) </h6>
@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 <div class="item col-md-3 p-2">
-                    <div clas="card h-100">
+                    <div class="card h-100">
                         <h6> Consumer to Government (C2G) </h6>
                         <img src="insert image" alt="">
                         <p>
@@ -79,12 +79,12 @@
                     </div>
                 </div>
             </div>
-        <div>
-            <div class="advt-deavt;bg-primary;col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">    
-                <h3 class="top-h3"> Advantages and Disadvantages</h3>         
+              <div class="margin-left:20em;margin-right:20em;">        
+                <h3>
+                    Advantages and Disadvantages
+                </h3>
             <ul>
                  <li>
-                     <div class="adv-comp">
                 <h3> Advantages </h3>
                   </li>
                     <ul>
@@ -120,8 +120,6 @@
                         </li>
                     </ul>
                 </ul>
-                </div>
-            <div class="deadv-comp">
              <ul>
                  <li>
                     <h3> Disadvantages </h3>
@@ -158,7 +156,6 @@
                             </p>
                         </li>
                     </ul>
-                  </div>
                 </div>
             </div>
         </div> 
@@ -166,5 +163,3 @@
              <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
           </div>                                                
 </section>
-
-
