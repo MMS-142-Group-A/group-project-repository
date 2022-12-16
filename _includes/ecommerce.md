@@ -74,10 +74,9 @@
                 </div>
             </div>
                 
-            <div class="col-lg-8 col-lg-offset-1 text-left">
                 <div style="margin-left:5em;margin-right:5em;">
                 <h3>
-                    Advantages and Disadvantages
+                    Advantages and Disadvantagess
                 </h3>
                 <h3> Advantages </h3>
                     <ul>
