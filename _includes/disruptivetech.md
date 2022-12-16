@@ -10,61 +10,56 @@
     </div>
 </section>
 <body>
-        </div>
-        <div class="container-fluid">
-            <h1>
-                ECOMMERCE AS A DISRUPTIVE TECHNOLOGY
-            </h1>
             <img src="insert image" alt="">  
-        </div>
+        
         <div class="components">
             <div class="mid-side">
                 "insert infos"
-            </div>
         </div>
+            
         <div class="component-3">
             <div class="advt-deavt">
-                <h1>
+                <h3>
                     Reasons Why E-Commerce is Considered a
                     Disruptive Innovation
-                </h1>
+                </h3>
                 <div class="adv-comp">
                     <h4> E-Commerce made transactions simple, and convenient </h4>
-                    <h5>
+                    <p>
                         "insert infos"
-                    </h5>
+                    </p>
                     <ul>
                         <li>
-                            <h6> 
+                            <p> 
                                 Shopping without worrying about the schedules of physical stores and leaving the
                                 comfort of their home (Malloy, 2019).
-                            </h6>
+                            </p>
                         </li>
                         <li>
-                            <h6>
+                            <p>
                                 Much cheaper products compared to the products available in malls and/or offers a
                                 variety of much cheaper alternatives (Malloy, 2019).
-                            </h6>
+                            </p>
                         </li>
                         <li>
-                            <h6>
+                            <p>
                                 Having an enormous variety of products that you can easily browse using their gadgets
                                 to see which to purchase without the hassle of roaming around the physical business
                                 establishments (Malloy, 2019).
-                            </h6>
+                            </p>
                         </li>
                     </ul>
                 </div>
                 <div class="adv-comp article">
-                    <h4>
+                    <h3>
                         The trend of e-commerce over time and how it alters the way
                         consumers, businesses, and the industry operate.
-                    </h4>
-                    <h5>
+                    </h3>
+                    <p>
                         "insert infos"
-                    </h5>
+                    </p>
                     <img src="insert image" alt="">
-                    <h5>
+                    <p>
                         "insert infos"
 
                         <br>
@@ -72,7 +67,7 @@
                         <br>
                         <br/>
                         "insert infos"
-                    </h5>
+                    </p>
                     <img src="insert image" alt="">
                 </div>
                 <div class="adv-comp article">
