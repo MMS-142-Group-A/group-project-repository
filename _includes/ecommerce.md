@@ -86,8 +86,10 @@
                     <br/>
                     <br>
                     <br/>
-                     <hr>
-                <h3 class="top-h3"> Advantages and Disadvantages </h3>
+                    <br>
+                    <br/>
+                  Advantages and Disadvantages
+                 </h3>
             <ul>
                  <li>
                 <h3> Advantages </h3>
