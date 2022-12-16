@@ -82,6 +82,7 @@
                 </div>
             </div>
             <div class="advt-deavt">
+                <hr>
                 <h3>
                     <b>The Impact of E-commerce on Physical Busines
                     Establishments</b>
