@@ -109,11 +109,15 @@
                 </div>
                 <div class="adv-comp article">
                     <h4>
+                        <b>
                         2. Altered Business
+                        </b>
                     </h4>
                     <h5>
                         <span>
+                            <b><i>
                             2.1 Altered How Business Operates
+                                </i></b>
                         </span>
                         <br>
                         <br>
@@ -128,15 +132,19 @@
                     
                     <h5>
                         <span>
+                            <b><i>
                             2.2 Altered How Business is Conducted
+                             </i></b>
                         </span>
-                        <br/>
+                        <br>
 &nbsp &nbsp &nbsp &nbsp    Transactions are becoming more flexible because of e-commerce, consumers are much smarter because of ability to compare prices of similar products from different shops that are instantly available in one platform instead of canvassing them separately. Meanwhile, businesses are forced to open up several payment methods to accommodate the preferences of each consumer (Dey, 2022).
                     </h5>
                 </div>
                 <div class="adv-comp article">
                     <h4>
+                        <b>
                         3. Altered How Industries Operate
+                        </b>
                     </h4>
                     <h5>
 &nbsp &nbsp &nbsp &nbsp Business owners do not need a physical store to conduct business and those that switch to online platforms are leaving behind a lot of vacancies from their previous locations (e.g. shopping malls, renting spaces). These malls that used to house businesses are not exactly receiving regression, rather they are predicted to adapt to the changes brought up by e-commerce. According to Kodali (2022), these malls will shift to hosting more physical service-based businesses instead of product-based shops. Product-based shops either switch to e-commerce or exist in both e-commerce and physical stores, thus the establishment will cater these type of tenants. Malls will adapt by welcoming more occupants that will use the spaces for civic activity offices, hair salons, clinics (for people/pets), gyms, and other in person services to fill in the vacant spaces. In return, it will change how people envisioned malls and those of the similar operational industry.
