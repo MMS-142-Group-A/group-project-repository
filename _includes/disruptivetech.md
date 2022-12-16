@@ -19,7 +19,7 @@
             <div class="advt-deavt">
                 <h3>
                     <b>
-                    Reasons Why E-Commerce is Considered a
+                    Reasons Why E-Commerce is Considered aa
                     Disruptive Innovation
                     </b>
                 </h3>
