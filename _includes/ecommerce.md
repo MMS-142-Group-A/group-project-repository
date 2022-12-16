@@ -176,8 +176,6 @@
                 
             </div>
         </div> 
-            
-                <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
             </div>
         </div>
     </div>
