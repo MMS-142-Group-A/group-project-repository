@@ -150,18 +150,10 @@ On the other hand, data collection features in e-commerce platforms provide busi
                     </h5>
                 </div>
         
-    </section>
 
 
-    <script>
-        function myFunction() {
-            var x = document.getElementById("myTopnav");
-            if (x.className === "topnav") {
-                x.className += " responsive";
-            } else {
-                x.className = "topnav";
-            }
-        }
-    </script>
+
+
+  
 </body>
-</html>
+</section>
