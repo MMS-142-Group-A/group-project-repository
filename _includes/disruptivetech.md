@@ -9,7 +9,8 @@
         </div>
     </div>
 <body>
-        <img src="insert image" alt="">  
+        <img src="insert image" alt=""> 
+        <div style="margin-left:5em;margin-right:5em;">
         <div class="components">
             <div class="mid-side">
                 "insert infos"
@@ -18,7 +19,7 @@
             <div style="margin-left:5em;margin-right:5em;">
             <div class="advt-deavt">
                 <h3>
-                    Reasons Why E-Commerce is Considered aa
+                    Reasons Why E-Commerce is Considered a
                     Disruptive Innovation
                 </h3>
                 <div class="adv-comp">
