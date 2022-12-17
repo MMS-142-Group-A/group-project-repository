@@ -4,7 +4,7 @@
         margin-left: auto;
         margin-right: auto;
         height: auto;
-		border-radius: 25 px;
+		border-radius: 100 px;
     }
 </style>
 <section class="bg-primary" id="ecommerce">
@@ -33,12 +33,11 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-            <div class="container-fluid pt-3">
+            <div class="container-fluid">
 				<div class="row;">    
                 <div class="col-7 col-sm-5">
                     <div class="card h-100">
-						<div class = rounded">
-                        <div class="d-inline p-2 bg-secondary">
+                        <div class="d-inline p-2 bg-dark">
                         <h4> Business to Consumer (B2C) </h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
@@ -143,8 +142,7 @@
 				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
 						     width= 250 
 							 height= 350
-							 class="center"
-							 alt="Advantages and Disadvatages Logo"
+							 alt="Advantages and Disadvatages"
 							 >
             <ul>
                  <li>
