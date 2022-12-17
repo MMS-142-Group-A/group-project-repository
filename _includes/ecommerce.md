@@ -96,11 +96,12 @@
                     </div>
                 </div>
                 </div>
-            </div>          
-        <div>
+            </div>                                            
+</section>
+<section class="bg-primary"
+       <div>
         <div class="container">
         <div class="row;margin-left:30em;margin-right:30em"> 
-            <br><br>
                 <h3>
                   Advantages and Disadvantages
                  </h3>
@@ -180,8 +181,10 @@
                 </div>
             </div>
         </div>
-     </div> 
+                </div> 
           <div class="col-lg-8 col-lg-offset-2 text-center">
              <a href="#sources" class="btn btn-default btn-xl">Jump to the sources</a>
-          </div>                                                
+          </div>    
 </section>
+
+                
