@@ -93,13 +93,14 @@
 
                     </p>
                     <img src="visuals, bg, & graphics/bf1.png" width= 854 height= 480 alt="before the pandemic" class="visuals">
+                    <br>
                     <p class="text-justify">
                         In the Philippines, e-commerce contributed 5.5 percent to the national economy. Thus, it paved the way for MSMEs to recover from the repercussions of the pandemic, where it can be remembered that they were forced to stop or pause their business operations (Humarang, 2022). With the help of online business platforms, local businesses were able to continue their operations, and it even created new opportunities for new firms to enter the market. Hani (2021) stated in their article that e-commerce and the digital economy took the spot of one of the key engines of economic growth in the country, whereas, from 599 billion pesos in 2020, the contribution of e-commerce in GDP grew to 1.2 trillion pesos in 2022. 
                         <br/>
                         <br>
-                        <br/>
                        Now because of its convenience, it is still popular, from buy-and-sell websites and online live selling to applications like Lazada, Zalora, and FoodPanda. As e-commerce expands and as the growth in its sales increases, it will continue to surpass its incumbent.
                     </p>
+                    <br>
                     <img src="visuals, bg, & graphics/bf2.png" width= 854 height= 480 alt="during the pandemic" class="visuals">
                 </div>
                 <div class="adv-comp article">
@@ -122,6 +123,7 @@
                 </h3>
                 <div class="adv-comp article">
                     <img src="visuals, bg, & graphics/bf3.png" width= 854 height= 480 alt="conventional commerce" class="visuals">
+                    <br>
                     <p style="text-align:center">
                         The impacts of e-commerce as a disruptive technology can be boiled down to three individual components of the business system namely 
                         <br>(1) Consumer, (2) Business, and (3) Industry, the following aims to elaborate and give specificity 
@@ -136,6 +138,7 @@
 &nbsp &nbsp &nbsp &nbsp      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space 2022). 
                     </p>
                     <img src="visuals, bg, & graphics/bf4.png" width= 854 height= 480 alt="e-commerce and people" class="visuals">
+                    <br>
                     <p class="text-justify">
 &nbsp &nbsp &nbsp &nbsp      With the consumer at the center of the system, the expectations of the consumers have also shifted. Similar to other online platforms, e-commerce is a learning system made to cater individuals by learning from their activity within the interface in order to create a mindset that the shopping experience should be a personalized one. Such subconscious influence to their mindset creates a greater expectation of consumers to companies and other shops to make their experience personalized (ESW 2022). 
 <br>
