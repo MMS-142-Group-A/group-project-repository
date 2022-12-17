@@ -130,6 +130,7 @@
                         <br>(1) Consumer, (2) Business, and (3) Industry, the following aims to elaborate and give specificity 
                         <br>on how e-commerce was able to change the way they operate:
                     </p>
+                     <br><br>
                     <h4>                    
                         <b>
                         1. Altering How Consumers Operate
@@ -154,7 +155,6 @@
                         2. Altered Business
                         </b>
                     </h4>
-                    <br><br>
                     <p class="text-justify">
                         <span>
                             <b><i>
