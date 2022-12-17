@@ -34,7 +34,7 @@
             </div>
             <div class="container-fluid">
         <div class="row;">    
-                <div class="col-6 col-sm-4">
+                <div class="col-7 col-sm-5">
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
                         <h4> Business to Consumer (B2C) </h4>
@@ -116,7 +116,11 @@
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Government (C2G) </h4>
-                        <img src="insert image" alt="">
+                        <img src="img/Types of E-Commerce/C2B.png"  
+						     width= 250 
+							 height= 250 
+							 alt="B2G Logo" 
+							 class="ecommerce">>
                         <p class="text-justify">
                             C2G E-Commerce refers to the consumer-to-government business model. This type of E-commerce bridges the gap between the citizens and the government. C2G E-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through E-commerce platforms like G-Cash.
                         </p>
@@ -133,6 +137,10 @@
                 <h3>
                   Advantages and Disadvantages
                  </h3>
+				 <img src="img/E Commerce Advantages and Disadvantages/Small Version Ad & Dis EComm.png"  
+						     width= 250 
+							 height= 350
+							 alt="Advantages and Disadvatages Logo">>
             <ul>
                  <li>
                 <h3> Advantages </h3>
