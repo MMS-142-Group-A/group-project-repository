@@ -40,6 +40,7 @@
                 <div class="col-7 col-sm-5">
                     <div class="card h-100">
                       <div class="d-inline p-2 bg-dark">
+					  <div class= padding: 50 >
                         <h4> Business to Consumer (B2C) </h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
