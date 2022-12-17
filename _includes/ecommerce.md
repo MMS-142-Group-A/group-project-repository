@@ -33,7 +33,7 @@
             </p>
             </div>
 			<div class="w4-container">
-			<div class="col-6 col-sm-4">
+			    <div class="col-6 col-sm-4">
 				<header class="w4-container>
                     <h1>"Business to Consumer (B2C)"</h1>
 						<div class="w4-container">
@@ -49,7 +49,7 @@
                     </div>
                  </div>
                 </div>
-			<div class="col-6 col-sm-4">
+						<div class="col-6 col-sm-4">
                         <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Business (B2B) </h4>
@@ -66,7 +66,7 @@
                 </div>
                </div>
               </div>
-			 <div class="col-6 col-sm-4">
+						<div class="col-6 col-sm-4">
                         <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Government (B2G) </h4>
@@ -115,7 +115,7 @@
                     </div>
                 </div>
                 </div>
-            <div class="col-6 col-sm-4">
+                <div class="col-6 col-sm-4">
                          <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Government (C2G) </h4>
