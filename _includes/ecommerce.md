@@ -35,8 +35,7 @@
 		<div class="w4-container">
             <div class="container-fluid" style="width:50%;">
 				<header class="w4-container w4-yellow">
-                        <h1>"Business to Consumer (B2C)"</h1>
-					</header>
+                    <h1>"Business to Consumer (B2C)"</h1>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
 							 height= 250 
