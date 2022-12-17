@@ -5,7 +5,6 @@
         margin-right: auto;
         height: auto;
     }
-	
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
