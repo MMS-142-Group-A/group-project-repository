@@ -124,19 +124,20 @@
                 </div>
             </div>                                            
 </section>
+
 <section class="bg-primary"
        <div>
         <div class="container">
-        <div class="row;margin-left:30em;margin-right:30em"> 
+        <div class="row;margin-left:40em;margin-right:40em"> 
                 <h3>
                   Advantages and Disadvantages
                  </h3>
 				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
 						     width= auto
 							 height = 1000
-							 class="center"
+							 = display: block; margin-left: auto; margin-right:auto;"
 							 alt="Advantages and Disadvatages"
-							 >
+							 />
             <ul>
                  <li>
                 <h3> Advantages </h3>
