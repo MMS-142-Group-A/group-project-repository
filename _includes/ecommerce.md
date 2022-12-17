@@ -33,12 +33,10 @@
             </p>
             </div>
 		<div class="container">
-            <div class="container-fluid">  
-                <div class="col-7 col-sm-5">
-                    <div class="card h-100">
-					<div class="hover-shadow">
-                      <div class="d-inline p-2 bg-dark">
-                        <h4> Business to Consumer (B2C) </h4>
+            <div class="container-fluid" style="width:50%;">
+				<header class="w3-container w3-black">
+                        <h1>header class= "Business to Consumer (B2C)"</h1>
+					</header>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
 							 height= 250 
