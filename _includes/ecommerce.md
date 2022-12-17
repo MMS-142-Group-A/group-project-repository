@@ -33,11 +33,11 @@
             </p>
             </div>
 			<div class="w4-container">
+			    <div class="col-6 col-sm-4">
 				<div class="w3-card-4" style="width:50%;">
 				<header class="w4-container w4-blue">
                     <h1>"Business to Consumer (B2C)"</h1>
 					</header>
-					
 					<div class="w4-container">
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
@@ -51,6 +51,7 @@
                  </div>
                 </div>
                     <div class="card h-100">
+					 <div class="col-6 col-sm-4">
                         <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Business (B2B) </h4>
@@ -67,7 +68,8 @@
                </div>
               </div>
                     <div class="card h-100">
-                         <div class="d-inline p-2 bg-dark">
+					    <div class="col-6 col-sm-4">
+                        <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Government (B2G) </h4>
                         <img src="img/Types of E-Commerce/B2G.png"  
@@ -82,6 +84,7 @@
                 </div>
                </div>
                     <div class="card h-100">
+					     <div class="col-6 col-sm-4">
                          <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Consumer (C2C) </h4>
@@ -97,6 +100,7 @@
                 </div>
              </div>
             <div class="w-100"><div>
+			        <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
@@ -112,8 +116,9 @@
                     </div>
                 </div>
                 </div>
+                <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <div class="d-inline p-2 bg-dark">
+                         <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Government (C2G) </h4>
                         <img src="img/Types of E-Commerce/C2G.png"  
@@ -132,14 +137,13 @@
             </div>                                            
 </section>
 <br>
-<br>
-<br>
-<br>
+
+
 <section class="bg-primary"
        <div>
         <div class="container">
         <div class="row;margin-left:40em;margin-right:40em"> 
-                <h3 style="font-size:40px;">
+                <h3>
                   Advantages and Disadvantages
                  </h3>
 				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
