@@ -114,7 +114,7 @@
                          <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Government (C2G) </h4>
-                        <img src="img/Types of E-Commerce/C2B.png"  
+                        <img src="img/Types of E-Commerce/C2G.png"  
 						     width= 250 
 							 height= 250 
 							 class="rounded"
