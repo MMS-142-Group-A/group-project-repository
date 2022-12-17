@@ -67,7 +67,8 @@
                        <b> 2. The trend of e-commerce over time and how it alters the way
                         consumers, businesses, and the industry operate.</b>
                     </h4>
-                    <img src="/visuals, bg, & graphics/bf1.png">
+                    <img src="img/Types of E-Commerce/B2B.png" width= 340 height= 340 alt="B2B Logo">
+                    <img src="/visuals, bg, & graphics/bf1.png" width= 1280 height= 720 alt="before the pandemic">
                     <p class="text-justify">
                          In the earliest years of e-commerce, websites like Amazon and eBay already existed (BigCommerce, n.d.). Then, in recent years in the Philippines, buy and sell websites such as Sulit.com.ph became known to Filipinos (Phoebe, 2013). They also had TV commercials. Even Instagram shops and Facebook Marketplace are also already present. And before the pandemic, Shopee was already making noise in the industry (The Manila Times, 2018). But before, these kinds of e-commerce websites didn't seem like a threat to business establishments like malls. However, the pandemic came, which made drastic changes in how customers avail products and services and even how businesses sell products because of the need for a new safe way of transactions without close contact with the people because of the COVID-19 Virus. And E-commerce provided that need at that time. Many businesses went online and built their online presence. This phenomenon was evident in the rising share of digital retail trade in the global market from 14 percent pre-pandemic (2019) to 17 percent during the onset of the pandemic (2020) (UNCTAD, 2021).  
 
