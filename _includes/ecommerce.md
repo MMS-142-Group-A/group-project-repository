@@ -4,6 +4,7 @@
         margin-left: auto;
         margin-right: auto;
         height: auto;
+		border-radius: 25 px;
     }
 </style>
 <section class="bg-primary" id="ecommerce">
@@ -32,8 +33,8 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-            <div class="container-fluid">
-        <div class="row;">    
+            <div class="container-fluid pt-3">
+				<div class="row;">    
                 <div class="col-7 col-sm-5">
                     <div class="card h-100">
 						<div class = rounded">
@@ -42,7 +43,6 @@
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
 							 height= 250 
-							 class="rounded"
 							 alt="B2C Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -59,7 +59,6 @@
                         <img src="img/Types of E-Commerce/B2B.png" 
 						     width= 250 
 						     height= 250 
-							 class="rounded"
 						     alt="B2B Logo" 
 						    class="ecommerce">
                         <p class="text-justify">
@@ -76,7 +75,6 @@
                         <img src="img/Types of E-Commerce/B2G.png"  
 							 width= 250 
 							 height= 250 
-							 class="rounded"
 							 alt="B2G Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -92,7 +90,6 @@
                         <img src="img/Types of E-Commerce/C2C.png"  
 							 width= 250 
 							 height= 250 
-							 class="rounded"
 							 alt="C2C Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -109,7 +106,6 @@
                         <img src="img/Types of E-Commerce/C2B.png"  
 						     width= 250 
 							 height= 250 
-							 class="rounded"
 							 alt="C2B Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -121,11 +117,6 @@
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
-							<span class="border-0"></span>
-							<span class="border-top-2"></span>
-							<span class="border-right-2"></span>
-							<span class="border-bottom-2"></span>
-							<span class="border-left-2"></span>
                         <h4> Consumer to Government (C2G) </h4>
                         <img src="img/Types of E-Commerce/C2B.png"  
 						     width= 250 
@@ -149,9 +140,10 @@
                 <h3>
                   Advantages and Disadvantages
                  </h3>
-				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png class="center""  
+				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
 						     width= 250 
 							 height= 350
+							 class="center"
 							 alt="Advantages and Disadvatages Logo"
 							 >
             <ul>
