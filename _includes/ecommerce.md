@@ -36,6 +36,7 @@
             <div class="container-fluid">  
                 <div class="col-7 col-sm-5">
                     <div class="card h-100">
+					<div class="hover-shadow">
                       <div class="d-inline p-2 bg-dark">
                         <h4> Business to Consumer (B2C) </h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
