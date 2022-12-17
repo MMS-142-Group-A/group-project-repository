@@ -1,3 +1,13 @@
+<style>
+    .visuals{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        width: 100%;
+        height: auto;
+    }
+</style>
 <section id="disruptivetech">
     <div class="container">
         <div class="row">
@@ -72,7 +82,7 @@
                          In the earliest years of e-commerce, websites like Amazon and eBay already existed (BigCommerce, n.d.). Then, in recent years in the Philippines, buy and sell websites such as Sulit.com.ph became known to Filipinos (Phoebe, 2013). They also had TV commercials. Even Instagram shops and Facebook Marketplace are also already present. And before the pandemic, Shopee was already making noise in the industry (The Manila Times, 2018). But before, these kinds of e-commerce websites didn't seem like a threat to business establishments like malls. However, the pandemic came, which made drastic changes in how customers avail products and services and even how businesses sell products because of the need for a new safe way of transactions without close contact with the people because of the COVID-19 Virus. And E-commerce provided that need at that time. Many businesses went online and built their online presence. This phenomenon was evident in the rising share of digital retail trade in the global market from 14 percent pre-pandemic (2019) to 17 percent during the onset of the pandemic (2020) (UNCTAD, 2021).  
 
                     </p>
-                    <img src="visuals, bg, & graphics/bf1.png" width= 854 height= 480 alt="before the pandemic">
+                    <img src="visuals, bg, & graphics/bf1.png" width= 854 height= 480 alt="before the pandemic" class="visuals">
                     <p class="text-justify">
                         In the Philippines, e-commerce contributed 5.5 percent to the national economy. Thus, it paved the way for MSMEs to recover from the repercussions of the pandemic, where it can be remembered that they were forced to stop or pause their business operations (Humarang, 2022). With the help of online business platforms, local businesses were able to continue their operations, and it even created new opportunities for new firms to enter the market. Hani (2021) stated in their article that e-commerce and the digital economy took the spot of one of the key engines of economic growth in the country, whereas, from 599 billion pesos in 2020, the contribution of e-commerce in GDP grew to 1.2 trillion pesos in 2022. 
                         <br/>
@@ -80,7 +90,7 @@
                         <br/>
                        Now because of its convenience, it is still popular, from buy-and-sell websites and online live selling to applications like Lazada, Zalora, and FoodPanda. As e-commerce expands and as the growth in its sales increases, it will continue to surpass its incumbent.
                     </p>
-                    <img src="visuals, bg, & graphics/bf2.png" width= 854 height= 480 alt="during the pandemic">
+                    <img src="visuals, bg, & graphics/bf2.png" width= 854 height= 480 alt="during the pandemic" class="visuals">
                 </div>
                 <div class="adv-comp article">
                     <h4>
@@ -101,7 +111,7 @@
                     Establishments</b>
                 </h3>
                 <div class="adv-comp article">
-                    <img src="visuals, bg, & graphics/bf3.png" width= 854 height= 480 alt="conventional commerce">
+                    <img src="visuals, bg, & graphics/bf3.png" width= 854 height= 480 alt="conventional commerce" class="visuals">
                     <p style="text-align:center">
                         The impacts of e-commerce as a disruptive technology can be boiled down to three individual components of the business system namely 
                         <br>(1) Consumer, (2) Business, and (3) Industry, the following aims to elaborate and give specificity 
@@ -115,7 +125,7 @@
                     <p class="text-justify">             
 &nbsp &nbsp &nbsp &nbsp      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space 2022). 
                     </p>
-                    <img src="visuals, bg, & graphics/bf4.png" width= 854 height= 480 alt="e-commerce and people">
+                    <img src="visuals, bg, & graphics/bf4.png" width= 854 height= 480 alt="e-commerce and people" class="visuals">
                     <p class="text-justify">
 &nbsp &nbsp &nbsp &nbsp      With the consumer at the center of the system, the expectations of the consumers have also shifted. Similar to other online platforms, e-commerce is a learning system made to cater individuals by learning from their activity within the interface in order to create a mindset that the shopping experience should be a personalized one. Such subconscious influence to their mindset creates a greater expectation of consumers to companies and other shops to make their experience personalized (ESW 2022). 
 <br>
