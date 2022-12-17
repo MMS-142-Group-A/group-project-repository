@@ -36,7 +36,8 @@
         <div class="row;">    
                 <div class="col-7 col-sm-5">
                     <div class="card h-100">
-                        <div class="d-inline p-2 bg-dark">
+						<div class = rounded">
+                        <div class="d-inline p-2 bg-secondary">
                         <h4> Business to Consumer (B2C) </h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
@@ -152,7 +153,7 @@
 						     width= 250 
 							 height= 350
 							 alt="Advantages and Disadvatages Logo"
-							 >>
+							 >
             <ul>
                  <li>
                 <h3> Advantages </h3>
