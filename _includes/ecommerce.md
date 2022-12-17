@@ -41,6 +41,7 @@
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
 							 height= 250 
+							 class="rounded"
 							 alt="B2C Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -57,6 +58,7 @@
                         <img src="img/Types of E-Commerce/B2B.png" 
 						     width= 250 
 						     height= 250 
+							 class="rounded"
 						     alt="B2B Logo" 
 						    class="ecommerce">
                         <p class="text-justify">
@@ -73,6 +75,7 @@
                         <img src="img/Types of E-Commerce/B2G.png"  
 							 width= 250 
 							 height= 250 
+							 class="rounded"
 							 alt="B2G Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -88,7 +91,8 @@
                         <img src="img/Types of E-Commerce/C2C.png"  
 							 width= 250 
 							 height= 250 
-							 alt="B2G Logo" 
+							 class="rounded"
+							 alt="C2C Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
                             C2C E-commerce refers to consumer-to-consumer transactions. Customers purchase goods from other customers through a third-party platform or business. Some examples of this are through the use of online auction-listing websites and selling applications. Some examples of these are eBay, Mercari, OLX, and Depop.
@@ -104,14 +108,21 @@
                         <img src="img/Types of E-Commerce/C2B.png"  
 						     width= 250 
 							 height= 250 
-							 alt="B2G Logo" 
-							 class="ecommerce">>
+							 class="rounded"
+							 alt="C2B Logo" 
+							 class="ecommerce">
                         <p class="text-justify">
                             C2B E-commerce refers to consumer-to-business transactions. In this E-commerce model, the consumer provides value to the business. Consumers offer products or services to businesses in change for payment or other benefits. This type of E-commerce transaction allows the consumer and the business to have a mutually beneficial relationship. An example of this is an influencer promoting a business by using affiliate links.
                         </p>
                     </div>
                 </div>
                 </div>
+				<span class="border-0"></span>
+					<span class="border-top-2"></span>
+					<span class="border-right-2"></span>
+					<span class="border-bottom-2"></span>
+					<span class="border-left-2"></span>
+					
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
@@ -119,8 +130,9 @@
                         <img src="img/Types of E-Commerce/C2B.png"  
 						     width= 250 
 							 height= 250 
-							 alt="B2G Logo" 
-							 class="ecommerce">>
+							 class="rounded"
+							 alt="C2G Logo" 
+							 class="ecommerce">
                         <p class="text-justify">
                             C2G E-Commerce refers to the consumer-to-government business model. This type of E-commerce bridges the gap between the citizens and the government. C2G E-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through E-commerce platforms like G-Cash.
                         </p>
@@ -137,10 +149,11 @@
                 <h3>
                   Advantages and Disadvantages
                  </h3>
-				 <img src="img/E Commerce Advantages and Disadvantages/Small Version Ad & Dis EComm.png"  
+				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
 						     width= 250 
 							 height= 350
-							 alt="Advantages and Disadvatages Logo">>
+							 alt="Advantages and Disadvatages Logo"
+							 >>
             <ul>
                  <li>
                 <h3> Advantages </h3>
