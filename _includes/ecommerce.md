@@ -33,8 +33,9 @@
             </p>
             </div>
 			<div class="w4-container">
+			     <div class="card h-100">
 			    <div class="col-6 col-sm-4">
-                    <h1>"Business to Consumer (B2C)"</h1>
+                    <h4>"Business to Consumer(B2C)" </h4>
 						<div class="w4-container">
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
