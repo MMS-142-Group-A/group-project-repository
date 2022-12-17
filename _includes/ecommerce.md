@@ -41,7 +41,7 @@
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
                         <h4> Business to Business (B2B) </h4>
-                        <img src="group-project-repository/img/Types of E-Commerce/B2B.png" 
+                        <img src="img/Types of E-Commerce/B2B.png" 
 							 alt="B2B Logo" 
 							 style="display: inline block; margin: auto; max width: 16px" 
 							 >
