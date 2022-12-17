@@ -20,7 +20,7 @@
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
-                <p class="text-faded;text-justify">
+                <p class="text-faded">
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
@@ -156,7 +156,7 @@
                             <h4>
                                 Data Breaches and Hacks
                             </h4>
-                            <p class= "text-faded" class= "text-justify">
+                            <p class= "text-faded">
                                 Business platforms could be hacked, which is the harsh reality of online commerce. Customers want assurance that their financial information won't be shared or compromised when they make an online purchase and want to feel secure doing so. Businesses and organizations are targets of malicious hackers who take customer information from their databases. Not only does this undermine the trust in the company, but it may also have financial and legal repercussions.
                             </p>
                         </li>
@@ -164,7 +164,7 @@
                             <h4>
                              Lack of Credibility
                             </h4>
-                            <p class= "text-faded" class= "text-justify">
+                            <p class= "text-faded">
                                 People and relationships play a large part in business. Because there are fewer face-to-face interactions in the e-commerce world, developing those relationships can be more difficult.
                             </p>
                         </li>
