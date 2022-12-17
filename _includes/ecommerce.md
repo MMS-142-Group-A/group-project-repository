@@ -148,7 +148,7 @@
                         <ul>
                         <li>
                             <h4>Unguaranteed Product Quality </h4>
-                            <p class= "text-justify;text-faded"> 
+                            <p class= "text-justify"> 
                                 As a buyer, it's worth noting that the quality of a product may vary among shops. The goods you may purchase might be damaged en route to your location or the product is simply of poor quality. There is no sure way of knowing if the product is good outside of ratings and reviews from other e-commerce users.
                             </p>
                         </li>
