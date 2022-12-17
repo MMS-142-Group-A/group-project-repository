@@ -16,8 +16,7 @@
                 
                 <br><br>
                 
-                <p> 
-                    <center>
+                <p style="text-align:center">
                      Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements. 
                     <br>However, there is still continuous development in the field of technology that is bringing paradigm shifts. 
                     <br>These technologies are often referred to as disrupted technology.
@@ -27,7 +26,7 @@
             <br>
         <div class="component-3">
             <div class="advt-deavt">
-                <h3>
+                <h3 style="text-align:center">
                     <b>
                     Reasons Why E-Commerce is Considered a
                     Disruptive Innovation
@@ -95,7 +94,7 @@
             </div>
             <div class="advt-deavt">
                 <br><br>
-                <h3>
+                <h3 style="text-align:center">
                     <b>The Impact of E-commerce on Physical Busines
                     Establishments</b>
                 </h3>
