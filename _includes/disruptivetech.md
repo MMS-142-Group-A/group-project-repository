@@ -102,6 +102,7 @@
                     </p>
                     <br>
                     <img src="visuals, bg, & graphics/bf2.png" width= 854 height= 480 alt="during the pandemic" class="visuals">
+                     <br> <br>
                 </div>
                 <div class="adv-comp article">
                     <h4>
