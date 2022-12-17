@@ -40,8 +40,8 @@
 					</header>
 					<div class="w4-container">
                         <img src="img/Types of E-Commerce/B2C.png" 
-						     width= 250 
-							 height= 250 
+						     width= 150
+							 height= 150
 							 alt="B2C Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -56,8 +56,8 @@
 						<header class="w4-container">
                         <h4> Business to Business (B2B) </h4>
                         <img src="img/Types of E-Commerce/B2B.png" 
-						     width= 250 
-						     height= 250 
+						     width= 150
+						     height= 150
 						     alt="B2B Logo" 
 						    class="ecommerce">
                         <p class="text-justify">
@@ -73,8 +73,8 @@
 						<header class="w4-container">
                         <h4> Business to Government (B2G) </h4>
                         <img src="img/Types of E-Commerce/B2G.png"  
-							 width= 250 
-							 height= 250 
+							 width= 150
+							 height= 150
 							 alt="B2G Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -89,8 +89,8 @@
 						<header class="w4-container">
                         <h4> Consumer to Consumer (C2C) </h4>
                         <img src="img/Types of E-Commerce/C2C.png"  
-							 width= 250 
-							 height= 250 
+							 width= 150
+							 height= 150
 							 alt="C2C Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -106,8 +106,8 @@
 						<header class="w4-container">
                         <h4> Consumer to Business (C2B) </h4>
                         <img src="img/Types of E-Commerce/C2B.png"  
-						     width= 250 
-							 height= 250 
+						    width= 150
+							 height= 150
 							 alt="C2B Logo" 
 							 class="ecommerce">
                         <p class="text-justify">
@@ -122,8 +122,8 @@
 						<header class="w4-container">
                         <h4> Consumer to Government (C2G) </h4>
                         <img src="img/Types of E-Commerce/C2G.png"  
-						     width= 250 
-							 height= 250 
+						     width= 150
+							 height= 150
 							 class="rounded"
 							 alt="C2G Logo" 
 							 class="ecommerce">
