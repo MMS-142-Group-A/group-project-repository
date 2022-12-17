@@ -132,11 +132,14 @@
             </div>                                            
 </section>
 <br>
+<br>
+<br>
+<br>
 <section class="bg-primary"
        <div>
         <div class="container">
         <div class="row;margin-left:40em;margin-right:40em"> 
-                <h3>
+                <h3 style="font-size:40px;">
                   Advantages and Disadvantages
                  </h3>
 				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
