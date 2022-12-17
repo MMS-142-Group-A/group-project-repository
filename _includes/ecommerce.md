@@ -12,7 +12,7 @@
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading">What is E-commerce?</h2>
                 <hr class="light">
-                <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
+                <p class="text-faded">Andrew Bloomenthal (2022) defined Electronic Commerce or E-commerce as the online selling and purchasing of goods and services. It can only be done through any smart device (i.e. tablet, smartphone, computer) that can connect to the internet.</p>
                 <img src="insert image" alt="">
                </div>
             </div>
@@ -24,7 +24,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infos"
+                E-commerce uses ICT to support a business' external relationships and interactions with people, organizations, and other businesses. According to Kütz (2016), mobile commerce, electronic funds transfers, internet marketing, online transaction processing, and automated data collection systems are just a handful of the technologies utilized in e-commerce. Most e-commerce uses the internet for at least one phase of the transaction's life cycle. To simplify, customers visit a website or online store and make purchases using electronic payments. The merchant sends the products or renders the service after receiving the payment (Fuscaldo, 2022)
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
