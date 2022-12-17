@@ -15,12 +15,13 @@
             <div class="mid-side">
                 "insert infos"
                 <br><br>
+                
                 <p> 
                     Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements. 
                     <br>However, there is still continuous development in the field of technology that is bringing paradigm shifts. 
                     <br>These technologies are often referred to as disrupted technology.
                 
-               </p>    
+                </p>
         </div> 
             <br>
         <div class="component-3">
@@ -100,7 +101,9 @@
                 <div class="adv-comp article">
                     <img src="insert image" alt="">
                     <p class="text-justify">
-                        "insert infos"
+                        The impacts of e-commerce as a disruptive technology can be boiled down to three individual components of the business system namely 
+                        <br>(1) Consumer, (2) Business, and (3) Industry, the following aims to elaborate and give specificity 
+                        <br>on how e-commerce was able to change the way they operate:
                     </p>
                     <h4>                    
                         <b>
