@@ -5,6 +5,9 @@
         margin-right: auto;
         height: auto;
     }
+	.container-fluid{
+		padding: 50px;
+	}
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
@@ -32,8 +35,8 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-            <div class="container-fluid">
-				<div class="row;">    
+		<div class="container">
+            <div class="container-fluid">  
                 <div class="col-7 col-sm-5">
                     <div class="card h-100">
                       <div class="d-inline p-2 bg-dark">
@@ -139,8 +142,8 @@
                   Advantages and Disadvantages
                  </h3>
 				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
-						     width= 1000
-							 height = 2500
+						     width= 1500
+							 height = 3000
 							 class="center"
 							 alt="Advantages and Disadvatages"
 							 >
