@@ -32,10 +32,10 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-		<div class="container">
+		<div class="w4-container">
             <div class="container-fluid" style="width:50%;">
-				<header class=" w4-container w4-black">
-                        <h1>header class= "Business to Consumer (B2C)"</h1>
+				<header class="w4-container w4-yellow">
+                        <h1>"Business to Consumer (B2C)"</h1>
 					</header>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
