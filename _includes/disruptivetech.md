@@ -26,6 +26,7 @@
             <br>
         <div class="component-3">
             <div class="advt-deavt">
+                <hr color="black" style="height:30px">
                 <h3 style="text-align:center">
                     <b>
                     Reasons Why E-Commerce is Considered a
@@ -131,7 +132,7 @@
                     <p class="text-justify">
                         <span>
                             <b><i>
-                            2.1 Altered How Business Operates
+                                2.1 Altered How Business Operates
                                 </i></b>
                         </span>
                         <br>
