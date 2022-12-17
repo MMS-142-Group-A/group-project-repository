@@ -10,8 +10,7 @@
 			  
 <p>Surely things will continue to develop from this point onwards. There maybe hiccups along the way and problems to encounter with e-commerce. But as things stand, the good outweigh the bad. And we together look forward to a brighter future.</p> 
               
-          </div>
-      </div>
+	      </div>
   </aside>
 
 </section>
