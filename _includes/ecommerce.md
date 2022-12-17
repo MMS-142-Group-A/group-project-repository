@@ -128,7 +128,7 @@
 							 class="rounded"
 							 alt="C2G Logo" 
 							 class="ecommerce">
-                        <p class="text-justify">
+                        <p style="margin-left:2.5em"> class="text-justify">
                             C2G E-Commerce refers to the consumer-to-government business model. This type of E-commerce bridges the gap between the citizens and the government. C2G E-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through E-commerce platforms like G-Cash.
                         </p>
                     </div>
@@ -137,6 +137,9 @@
                 </div>
             </div>                                            
 </section>
+<br>
+
+
 <section class="bg-primary"
        <div>
         <div class="container">
