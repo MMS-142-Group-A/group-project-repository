@@ -32,19 +32,19 @@
                     </p>
                     <ul>
                         <li>
-                            <p>
+                            <p class="text-justify">
                                 Shopping without worrying about the schedules of physical stores and leaving the
                                 comfort of their home (Malloy, 2019).
                             </p>
                         </li>
                         <li>
-                            <p>
+                            <p class="text-justify">
                                 Much cheaper products compared to the products available in malls and/or offers a
                                 variety of much cheaper alternatives (Malloy, 2019).
                             </p>
                         </li>
                         <li>
-                            <p>
+                            <p class="text-justify">
                                 Having an enormous variety of products that you can easily browse using their gadgets
                                 to see which to purchase without the hassle of roaming around the physical business
                                 establishments (Malloy, 2019).
@@ -54,7 +54,7 @@
                 </div>
                 <div class="adv-comp article">
                     <br>
-                    <h4>
+                    <h4 >
                        <b> 2. The trend of e-commerce over time and how it alters the way
                         consumers, businesses, and the industry operate.</b>
                     </h4>
@@ -63,9 +63,8 @@
 
                     </p>
                     <img src="insert image" alt="">
-                    <p>
+                    <p class="text-justify">
                         In the Philippines, e-commerce contributed 5.5 percent to the national economy. Thus, it paved the way for MSMEs to recover from the repercussions of the pandemic, where it can be remembered that they were forced to stop or pause their business operations (Humarang, 2022). With the help of online business platforms, local businesses were able to continue their operations, and it even created new opportunities for new firms to enter the market. Hani (2021) stated in their article that e-commerce and the digital economy took the spot of one of the key engines of economic growth in the country, whereas, from 599 billion pesos in 2020, the contribution of e-commerce in GDP grew to 1.2 trillion pesos in 2022. 
-                        <br>
                         <br/>
                         <br>
                         <br/>
@@ -80,7 +79,7 @@
                         (without completely replacing those physical establishments
                         entirely)</b>
                     </h4>
-                    <p>
+                    <p class="text-justify"> 
                         "insert infos"
                     </p>
                 </div>
@@ -93,7 +92,7 @@
                 </h3>
                 <div class="adv-comp article">
                     <img src="insert image" alt="">
-                    <p>
+                    <p class="text-justify">
                         "insert infos"
                     </p>
                     <h4>                    
@@ -101,11 +100,11 @@
                         1. Altering How Consumers Operate
                         </b>
                     </h4>
-                    <p>             
+                    <p class="text-justify">             
 &nbsp &nbsp &nbsp &nbsp      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space 2022). 
                     </p>
                     <img src="insert image" alt="">
-                    <p>
+                    <p class="text-justify">
 &nbsp &nbsp &nbsp &nbsp      With the consumer at the center of the system, the expectations of the consumers have also shifted. Similar to other online platforms, e-commerce is a learning system made to cater individuals by learning from their activity within the interface in order to create a mindset that the shopping experience should be a personalized one. Such subconscious influence to their mindset creates a greater expectation of consumers to companies and other shops to make their experience personalized (ESW 2022). 
 <br>
 <br/>
@@ -119,7 +118,7 @@
                         2. Altered Business
                         </b>
                     </h4>
-                    <p>
+                    <p class="text-justify">
                         <span>
                             <b><i>
                             2.1 Altered How Business Operates
@@ -153,7 +152,7 @@
                         3. Altered How Industries Operate
                         </b>
                     </h4>
-                    <p>
+                    <p class="text-justify">
 &nbsp &nbsp &nbsp &nbsp Business owners do not need a physical store to conduct business and those that switch to online platforms are leaving behind a lot of vacancies from their previous locations (e.g. shopping malls, renting spaces). These malls that used to house businesses are not exactly receiving regression, rather they are predicted to adapt to the changes brought up by e-commerce. According to Kodali (2022), these malls will shift to hosting more physical service-based businesses instead of product-based shops. Product-based shops either switch to e-commerce or exist in both e-commerce and physical stores, thus the establishment will cater these type of tenants. Malls will adapt by welcoming more occupants that will use the spaces for civic activity offices, hair salons, clinics (for people/pets), gyms, and other in person services to fill in the vacant spaces. In return, it will change how people envisioned malls and those of the similar operational industry.
                     </p>
                     <br><br>
