@@ -4,7 +4,6 @@
         margin-left: auto;
         margin-right: auto;
         height: auto;
-		border-radius: 100 px;
     }
 </style>
 <section class="bg-primary" id="ecommerce">
@@ -37,7 +36,7 @@
 				<div class="row;">    
                 <div class="col-7 col-sm-5">
                     <div class="card h-100">
-                        <div class="d-inline p-2 bg-dark">
+                      <div class="d-inline p-2 bg-dark">
                         <h4> Business to Consumer (B2C) </h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 250 
