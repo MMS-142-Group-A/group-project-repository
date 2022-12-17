@@ -13,14 +13,15 @@
         <div class="col-lg-8 col-lg-offset-2 text-center;margin-left:20em;margin-right:20em;">
         <div class="components">
             <div class="mid-side">
-                "insert infos"
+                
                 <br><br>
                 
                 <p> 
-                    Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements. 
+                    <center>
+                     Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements. 
                     <br>However, there is still continuous development in the field of technology that is bringing paradigm shifts. 
                     <br>These technologies are often referred to as disrupted technology.
-                
+                    </center>
                 </p>
         </div> 
             <br>
