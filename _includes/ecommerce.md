@@ -34,7 +34,7 @@
             </div>
 			<div class="w4-container">
 			    <div class="col-6 col-sm-4">
-				<div class="w3-card-4" style="width:50%;">
+				<div class="w3-card-4">
 				<header class="w4-container w4-blue">
                     <h1>"Business to Consumer (B2C)"</h1>
 					</header>
