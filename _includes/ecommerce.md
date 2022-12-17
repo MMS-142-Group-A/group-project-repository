@@ -34,9 +34,10 @@
             </div>
 			<div class="w4-container">
 			    <div class="col-6 col-sm-4">
+				<div class="w3-card-4">
 				<header class="w4-container>
                     <h1>"Business to Consumer (B2C)"</h1>
-
+					</header>
 						<div class="w4-container">
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
@@ -141,10 +142,9 @@
                 </div>
             </div>                                            
 </section>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
-<br><br><br><br><br>
+<br>
+
+
 <section class="bg-primary"
        <div>
         <div class="container">
