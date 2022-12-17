@@ -29,7 +29,15 @@
                      Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements. 
                     <br>However, there is still continuous development in the field of technology that is bringing paradigm shifts. 
                     <br>These technologies are often referred to as disrupted technology.
-                    </center>
+                    <br><br>
+                    Disruptive Technology is a process where smaller companies create an opportunity to keep up with established businesses 
+                    called the “incumbent” by offering cheaper products and services and catering to customers' needs which can significantly 
+                    alter the way consumers, businesses, and industries transact (Larson, 2016). It has two types, Low-market disruption, 
+                    which offers cheaper products and services, and the needs of the bottom of the market of its incumbent until it moves up in the market 
+                    and caters to its incumbent mainstream market (Larson, 2016; Marketing Schools, 2020). Another type is called New-market disruption,
+                    which offers cheaper alternative products and services for the customers' needs that's been unserved (Marketing Schools, 2020). 
+                    Disruptive technologies make everyday life more convenient by providing new notable attributes that make it possible to 
+                    replace old systems or habits (Provato Group, 2020).
                 </p>
         </div> 
             <br>
