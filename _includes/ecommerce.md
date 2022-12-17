@@ -38,7 +38,11 @@
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
                         <h4> Business to Consumer (B2C) </h4>
-                        <img src="insert images" alt="">
+                        <img src="img/Types of E-Commerce/B2C.png" 
+						     width= 250 
+							 height= 250 
+							 alt="B2C Logo" 
+							 class="ecommerce">
                         <p class="text-justify">
                             This is the most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
                         </p>
@@ -50,7 +54,11 @@
                         <div class="d-inline p-2 bg-dark">
                             <div class="center">
                         <h4> Business to Business (B2B) </h4>
-                        <img src="img/Types of E-Commerce/B2B.png" width= 340 height= 340 alt="B2B Logo" class="ecommerce">
+                        <img src="img/Types of E-Commerce/B2B.png" 
+						     width= 250 
+						     height= 250 
+						     alt="B2B Logo" 
+						    class="ecommerce">
                         <p class="text-justify">
                             B2B E-commerce is the transaction of businesses to other businesses. An example would be sourcing products from manufacturers to wholesalers, such as selling shoes from a factory to a shop on an online platform. Nike and Adidas have their brand on online platforms such as Amazon may be an example of B2B.
                         </p>
@@ -62,7 +70,11 @@
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
                         <h4> Business to Government (B2G) </h4>
-                        <img src="insert image" alt="">
+                        <img src="img/Types of E-Commerce/B2G.png"  
+							 width= 250 
+							 height= 250 
+							 alt="B2G Logo" 
+							 class="ecommerce">
                         <p class="text-justify">
                             B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack (includes devices, communications, protocols, cloud platform, and applications).
                         </p>
@@ -73,7 +85,11 @@
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Consumer (C2C) </h4>
-                        <img src="insert image" alt="">
+                        <img src="img/Types of E-Commerce/C2C.png"  
+							 width= 250 
+							 height= 250 
+							 alt="B2G Logo" 
+							 class="ecommerce">
                         <p class="text-justify">
                             C2C E-commerce refers to consumer-to-consumer transactions. Customers purchase goods from other customers through a third-party platform or business. Some examples of this are through the use of online auction-listing websites and selling applications. Some examples of these are eBay, Mercari, OLX, and Depop.
                         </p>
@@ -85,7 +101,11 @@
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Business (C2B) </h4>
-                        <img src="insert image" alt="">
+                        <img src="img/Types of E-Commerce/C2B.png"  
+						     width= 250 
+							 height= 250 
+							 alt="B2G Logo" 
+							 class="ecommerce">>
                         <p class="text-justify">
                             C2B E-commerce refers to consumer-to-business transactions. In this E-commerce model, the consumer provides value to the business. Consumers offer products or services to businesses in change for payment or other benefits. This type of E-commerce transaction allows the consumer and the business to have a mutually beneficial relationship. An example of this is an influencer promoting a business by using affiliate links.
                         </p>
