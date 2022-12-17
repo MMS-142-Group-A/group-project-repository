@@ -117,15 +117,14 @@
                     </div>
                 </div>
                 </div>
-				<span class="border-0"></span>
-					<span class="border-top-2"></span>
-					<span class="border-right-2"></span>
-					<span class="border-bottom-2"></span>
-					<span class="border-left-2"></span>
-					
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
+							<span class="border-0"></span>
+							<span class="border-top-2"></span>
+							<span class="border-right-2"></span>
+							<span class="border-bottom-2"></span>
+							<span class="border-left-2"></span>
                         <h4> Consumer to Government (C2G) </h4>
                         <img src="img/Types of E-Commerce/C2B.png"  
 						     width= 250 
