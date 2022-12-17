@@ -3,11 +3,10 @@
         display: block;
         margin-left: auto;
         margin-right: auto;
+		padding: 50px;
         height: auto;
     }
-	.container-fluid{
-		padding: 50px;
-	}
+	
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
