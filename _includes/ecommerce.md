@@ -43,7 +43,7 @@
                         <h4> Business to Business (B2B) </h4>
                         <img src="group-project-repository/img/Types of E-Commerce/B2B.png" 
 							 alt="B2B Logo" 
-							 style="display": inline block; margin: auto; max width: 16px" 
+							 style="display: inline block; margin: auto; max width: 16px" 
 							 >
                         <p>
                             B2B E-commerce is the transaction of businesses to other businesses. An example would be sourcing products from manufacturers to wholesalers, such as selling shoes from a factory to a shop on an online platform. Nike and Adidas have their brand on online platforms such as Amazon may be an example of B2B.
