@@ -34,9 +34,7 @@
             </div>
 			<div class="w4-container">
 			    <div class="col-6 col-sm-4">
-				<header class="w4-container>
                     <h1>"Business to Consumer (B2C)"</h1>
-					</header>
 						<div class="w4-container">
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
