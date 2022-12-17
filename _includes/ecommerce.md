@@ -156,7 +156,7 @@
                             <h4>
                                 Data Breaches and Hacks
                             </h4>
-                            <p class= "text-faded;text-justify">
+                            <p class= "text-faded" class= "text-justify">
                                 Business platforms could be hacked, which is the harsh reality of online commerce. Customers want assurance that their financial information won't be shared or compromised when they make an online purchase and want to feel secure doing so. Businesses and organizations are targets of malicious hackers who take customer information from their databases. Not only does this undermine the trust in the company, but it may also have financial and legal repercussions.
                             </p>
                         </li>
@@ -164,7 +164,7 @@
                             <h4>
                              Lack of Credibility
                             </h4>
-                            <p class= "text-faded;text-justify">
+                            <p class= "text-faded" class= "text-justify">
                                 People and relationships play a large part in business. Because there are fewer face-to-face interactions in the e-commerce world, developing those relationships can be more difficult.
                             </p>
                         </li>
