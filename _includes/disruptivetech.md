@@ -154,6 +154,7 @@
                         2. Altered Business
                         </b>
                     </h4>
+                    <br><br>
                     <p class="text-justify">
                         <span>
                             <b><i>
