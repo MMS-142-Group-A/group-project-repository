@@ -47,10 +47,10 @@
                     </div>
                  </div>
                 </div>
-                    <div class="card h-50">
+                    <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
                             <div class="center">
-                        <h2> Business to Business (B2B) </h2>
+                        <h4> Business to Business (B2B) </h4>
                         <img src="img/Types of E-Commerce/B2B.png" 
 						     width= 250 
 						     height= 250 
@@ -106,6 +106,7 @@
                     </div>
                 </div>
                 </div>
+                <div class="col-6 col-sm-4">
                     <div class="card h-100">
                          <div class="d-inline p-2 bg-dark">
                         <h4> Consumer to Government (C2G) </h4>
@@ -124,7 +125,6 @@
                 </div>
             </div>                                            
 </section>
-
 <section class="bg-primary"
        <div>
         <div class="container">
@@ -137,7 +137,7 @@
 							 height = 1000
 							 = display: block; margin-left: auto; margin-right:auto;"
 							 alt="Advantages and Disadvatages"
-							 />
+							 >
             <ul>
                  <li>
                 <h3> Advantages </h3>
