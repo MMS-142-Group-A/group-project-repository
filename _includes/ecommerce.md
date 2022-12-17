@@ -33,7 +33,7 @@
             </p>
             </div>
 			<div class="w4-container">
-			    <div class="col-6 col-sm-4">
+			<div class="col-6 col-sm-4">
 				<header class="w4-container>
                     <h1>"Business to Consumer (B2C)"</h1>
 						<div class="w4-container">
@@ -49,8 +49,7 @@
                     </div>
                  </div>
                 </div>
-                    <div class="card h-100">
-					 <div class="col-6 col-sm-4">
+			<div class="col-6 col-sm-4">
                         <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Business (B2B) </h4>
@@ -67,8 +66,7 @@
                 </div>
                </div>
               </div>
-                    <div class="card h-100">
-					    <div class="col-6 col-sm-4">
+			 <div class="col-6 col-sm-4">
                         <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Government (B2G) </h4>
@@ -84,8 +82,7 @@
                     </div>
                 </div>
                </div>
-                    <div class="card h-100">
-					     <div class="col-6 col-sm-4">
+			<div class="col-6 col-sm-4">
                          <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Consumer (C2C) </h4>
@@ -102,8 +99,7 @@
                 </div>
              </div>
             <div class="w-100"><div>
-			        <div class="col-6 col-sm-4">
-                    <div class="card h-100">
+						 <div class="col-6 col-sm-4">
                          <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Business (C2B) </h4>
@@ -119,8 +115,7 @@
                     </div>
                 </div>
                 </div>
-                <div class="col-6 col-sm-4">
-                    <div class="card h-100">
+            <div class="col-6 col-sm-4">
                          <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Government (C2G) </h4>
