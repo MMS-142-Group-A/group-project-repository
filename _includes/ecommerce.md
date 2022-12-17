@@ -33,7 +33,7 @@
             </p>
             </div>
 			<div class="w4-container">
-			    <div class="col-6 col-sm-4">
+			    <div class="col-3 col-sm-2">
 				<div class="w3-card-4" style="width:50%;">
 				<header class="w4-container w4-blue">
                     <h1>"Business to Consumer (B2C)"</h1>
@@ -52,7 +52,7 @@
                  </div>
                 </div>
                     <div class="card h-100">
-					    <div class="col-6 col-sm-4">
+					    <div class="col-3 col-sm-2">
                         <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Business (B2B) </h4>
