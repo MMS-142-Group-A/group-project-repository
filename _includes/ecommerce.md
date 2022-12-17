@@ -47,10 +47,10 @@
                     </div>
                  </div>
                 </div>
-                    <div class="card h-100">
+                    <div class="card h-50">
                         <div class="d-inline p-2 bg-dark">
                             <div class="center">
-                        <h4> Business to Business (B2B) </h4>
+                        <h2> Business to Business (B2B) </h2>
                         <img src="img/Types of E-Commerce/B2B.png" 
 						     width= 250 
 						     height= 250 
