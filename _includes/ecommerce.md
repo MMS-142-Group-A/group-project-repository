@@ -34,7 +34,6 @@
             </div>
 			<div class="w4-container">
 			    <div class="col-6 col-sm-4">
-				<div class="w3-card-4">
 				<header class="w4-container>
                     <h1>"Business to Consumer (B2C)"</h1>
 					</header>
@@ -53,7 +52,6 @@
                 </div>
                     <div class="card h-100">
 					 <div class="col-6 col-sm-4">
-                        <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Business (B2B) </h4>
                         <img src="img/Types of E-Commerce/B2B.png" 
