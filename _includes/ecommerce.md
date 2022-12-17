@@ -16,7 +16,7 @@
                 How does it works?
                 </h3>
                 <p class="text-faded">
-                "insert infoss"
+                "insert infos"
                 </p>
             <br>
                 <h3 class="top-h3"> The 6 Types of E-commerce </h3>
@@ -41,8 +41,8 @@
                     <div class="card h-100">
                         <div class="d-inline p-2 bg-dark">
                         <h4> Business to Business (B2B) </h4>
-                        <img src="img/Types of E-Commerce/B2B.png" 
-							 alt="B2B Logo" style="display: inline block; margin: auto; max width= 16 height= 16" >
+                        <img src="img/Types of E-Commerce/B2B.png" width= 5 height= 5
+							 alt="B2B Logo" style="display: inline block; margin: auto;" >
                         <p>
                             B2B E-commerce is the transaction of businesses to other businesses. An example would be sourcing products from manufacturers to wholesalers, such as selling shoes from a factory to a shop on an online platform. Nike and Adidas have their brand on online platforms such as Amazon may be an example of B2B.
                         </p>
