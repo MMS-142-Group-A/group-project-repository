@@ -142,7 +142,7 @@
                   Advantages and Disadvantages
                  </h3>
 				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
-						     width= 1500
+						     width= auto
 							 height = 3000
 							 class="center"
 							 alt="Advantages and Disadvatages"
