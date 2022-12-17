@@ -111,7 +111,7 @@
                     <ul>
                         <li>
                             <h4>Larger Market </h4>
-                            <p class= "text-faded;text-justify"> 
+                            <p class= "text-faded"> 
                                 E-commerce allows a business to tap into a larger market than a local market. Especially in the age of Globalization. Wherein one can have foreign goods delivered to their doorstep throughout the globe. 
                             </p>
                         </li>
@@ -119,7 +119,7 @@
                             <h4>
                             Personalized Marketing
                             </h4>
-                            <p class= "text-faded;text-justify">
+                            <p class= "text-faded">
                                 E-Commerce allows the personalization of content viewed by consumers. Recommendations of products based on prior inquiries and personalized messaging are examples of personalized marketing.
                             </p>
                         </li>
@@ -127,7 +127,7 @@
                             <h4>
                             Customer Insights
                             </h4>
-                            <p class= "text-faded;text-justify">
+                            <p class= "text-faded">
                                  Most e-commerce platforms showcase the performance data of their stores. Allowing for businesses to have access to customer insights with ease through the usage of analytics. 
                             </p>
                         </li>
@@ -135,7 +135,7 @@
                             <h4>
                             Lower Cost
                             </h4>
-                            <p class= "text-faded;text-justify">
+                            <p class= "text-faded">
                                 The infrastructure needed to start an E-commerce business and advertisement costs (billboards, flyers, etc…) are significantly lower. Allowing E-commerce businesses to start with lower investment and operational costs.
                             </p>
                         </li>
@@ -148,7 +148,7 @@
                         <ul>
                         <li>
                             <h4>Unguaranteed Product Quality </h4>
-                            <p class= "text-faded;text-justify"> 
+                            <p class= "text-justify"> 
                                 As a buyer, it's worth noting that the quality of a product may vary among shops. The goods you may purchase might be damaged en route to your location or the product is simply of poor quality. There is no sure way of knowing if the product is good outside of ratings and reviews from other e-commerce users.
                             </p>
                         </li>
@@ -172,7 +172,7 @@
                             <h4>
                             Complexity in Regulations
                             </h4>
-                            <p class= "text-faded;text-justify">
+                            <p class= "text-faded">
                                 Online retailers may need to abide by local laws in their own nations or states as well as the residences of their customers when selling to customers in other countries. This might be making accounting, taxation, and compliance very complicated.
                             </p>
                         </li>
