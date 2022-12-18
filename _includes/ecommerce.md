@@ -1,5 +1,5 @@
 <style>
-    .lalagyan > div > .ecommerce{
+     div > .ecommerce{
         display: block;
         margin-left: auto;
         margin-right: auto;
