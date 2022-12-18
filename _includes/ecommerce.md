@@ -5,6 +5,9 @@
         margin-right: auto;
         height: auto;
     }
+	.bold {
+	font-weight: bold;
+	}
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
@@ -35,7 +38,7 @@
 		<div class= "typesOfEcommerce">
 				<div class="card h-100">
 					<div class="col-6 col-sm-4">
-						<h4> Business to Consumer (B2C) </h4>
+						<h4><span class="bold>Business to Consumer (B2C)</span></h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
 							 height= 150
