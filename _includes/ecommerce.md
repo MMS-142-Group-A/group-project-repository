@@ -15,6 +15,19 @@
 	margin: 30px 60px;
 	}
 	
+	.lalagyan {
+  		display: grid;
+  		grid-template-columns: auto auto auto;
+  		gap: 10px;
+  		background-color: #9e632f;
+  		padding: 10px;
+	}
+
+	.lalagyan > div {
+  		background-color: rgba(255, 255, 255, 0.8);
+  		padding: 20px 0;
+  		font-size: 30px;
+	}	
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
@@ -42,7 +55,10 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-				<div class="card h-100">
+		
+		
+<div class="lalagyan">				
+		<div class="card h-100">
 					<div class="col-6 col-sm-4">
 						<h4>Business to Consumer (B2C)</h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
@@ -125,8 +141,12 @@
                            C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through  e-commerce platforms like G-Cash.
 							</p>
 					</div>
-				</div> 				
+				</div>
+</div>	
 </section>
+	    
+	    
+	    
 <br>
 <section class="bg-primary">
        <div>
