@@ -20,7 +20,8 @@
   		grid-template-columns: auto auto auto auto;
 		grid-template-rows: auto auto auto;
   		gap: 10px;
-  		padding: 10px;	
+  		padding: 10px;
+		margin: auto;
 	}
 
 	.lalagyan > div {
@@ -63,7 +64,7 @@
 		<div class="card h-100">
 					<div class="col-6 col-sm-4">
 						<h4>Business to Consumer (B2C)</h4><br>
-                        <img src="img/Types of E-Commerce/B2C.png" alt="B2C Logo" class="ecommerce">
+                        <img src="img/Types of E-Commerce/B2C.png" alt="B2C Logo" width= 150 height= 150 class="ecommerce">
 						<br>
                         <p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                             This is the most common type of business model. 
