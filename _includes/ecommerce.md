@@ -64,7 +64,6 @@
               </div>
                     <div class="card h-100">
 					    <div class="col-6 col-sm-4">
-                        <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Business to Government (B2G) </h4>
                         <img src="img/Types of E-Commerce/B2G.png"  
@@ -81,7 +80,6 @@
                </div>
                     <div class="card h-100">
 					    <div class="col-6 col-sm-4">
-                        <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Consumer (C2C) </h4>
                         <img src="img/Types of E-Commerce/C2C.png"  
@@ -99,7 +97,6 @@
             <div class="w-100"><div>
 			        <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Business (C2B) </h4>
                         <img src="img/Types of E-Commerce/C2B.png"  
@@ -116,7 +113,6 @@
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-                        <div class="d-inline p-2 bg-dark">
 						<header class="w4-container">
                         <h4> Consumer to Government (C2G) </h4>
                         <img src="img/Types of E-Commerce/C2G.png"  
@@ -126,7 +122,7 @@
 							 alt="C2G Logo" 
 							 class="ecommerce">
 							 <br>
-                        <p style="margin-left:2.5em"> class="text-justify">
+                        <p style="margin-left:2.5em" class="text-justify">
                             C2G E-Commerce refers to the consumer-to-government business model. This type of E-commerce bridges the gap between the citizens and the government. C2G E-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through E-commerce platforms like G-Cash.
                         </p>
                     </div>
