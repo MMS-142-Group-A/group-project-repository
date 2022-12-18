@@ -25,7 +25,7 @@
 
 	.lalagyan > div {
   		background-color: #9F3F2A;
-		background-image: radial-gradient(#d18030, #9F3F2A);
+		background-image: radial-gradient(#C74F35, #9F3F2A);
   		padding: 10px ;
 		border-radius:35px;
 		text-align:center;
