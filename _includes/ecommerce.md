@@ -76,8 +76,7 @@
 						     class="ecommerce">
 						<br>
 						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
-                           B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack 
-						   (includes devices, communications, protocols, cloud platform, and applications).
+                           B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack.
 							</p>
 					</div>
 				</div>
@@ -134,7 +133,7 @@
                  </h3>
 				 <img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
 						     width= auto
-							 height = 1000
+							 height = 900
 							 class="center">
             <ul>
                  <li>
