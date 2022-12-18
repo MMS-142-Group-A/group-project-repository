@@ -70,7 +70,22 @@
 						     class="ecommerce">
 						<br>
 						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
-                           B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack (includes devices, communications, protocols, cloud platform, and applications).
+                           B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack 
+						   (includes devices, communications, protocols, cloud platform, and applications).
+							</p>
+					</div>
+				</div>
+				<div class="card h-100">
+					<div class="col-6 col-sm-4">
+						<h4> Consumer to Consumer (C2C </h4>
+						<img src="img/Types of E-Commerce/C2C.png"
+						     width= 150
+						     height= 150
+						     alt="B2G Logo"
+						     class="ecommerce">
+						<br>
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+                           C2C E-commerce refers to consumer-to-consumer transactions. Customers purchase goods from other customers through a third-party platform or business. Some examples of this are through the use of online auction-listing websites and selling applications. Some examples of these are eBay, Mercari, OLX, and Depop.
 							</p>
 					</div>
 				</div>
