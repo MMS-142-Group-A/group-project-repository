@@ -38,7 +38,7 @@
 		text-indent: 30px;
 	}
 	.card:hover {
-  		background-color: black;
+  		background-image: url("visuals, bg, & graphics/blk.jpg");
 	}
 </style>
 <section class="bg-primary" id="ecommerce">
