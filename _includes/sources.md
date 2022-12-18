@@ -4,11 +4,9 @@
           <div class="call-to-action">
 		  <h2>Conclusion</h2>
 		 <br>
-<p>Our world today revolves closer and closer to the Internet and it's communities. Why wouldn't it? Having the knowledge of the world at the palm of your hands is mind boggling. From there innovations continue to arise one after another and tied with them are disruptions that morph known technologies.
+<p>Disruptive technology may seem quite negative, but it is only a different process and perspective on innovation to have an opportunity to keep up with the technology already offered by providing the needs of the customer and the market more cheaply and conveniently, which can make drastic changes.</p>
 				  
-<p>As an innovation, E-commerce has shown a new way of looking at not only money, but also the processes tied to it. It has slowly reshaped transactions, businesses, and industries, one can call it a disruptive technology. While the word disruptive is quite negative, it is only a different perspective on the concept of innovation. E-commerce made things easier, from a consumers personal time management to an entire businesses' plan of operation. Even our own country, the Philippines, has seen progress and development through e-commerce.</p>
-			  
-<p>Surely things will continue to develop from this point onwards. There maybe hiccups along the way and problems to encounter with e-commerce. But as things stand, the good outweigh the bad. And we together look forward to a brighter future.</p>
+<p>As an innovation, E-commerce has slowly reshaped transactions, businesses, and industries. It made things easier, from a consumer's time management to an entire business's plan of operation. Even our country, the Philippines, has seen progress and development in e-commerce. Although for many years, it is already existing, its attributes are just recently appreciated and are more evident due to the tremendous changes it makes in society. Now, E-commerce is part of how people do transactions. From that, E-commerce truly suits the category of Disruptive technology.</p>			  
           </div>
       </div>
   </aside>
