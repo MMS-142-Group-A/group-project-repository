@@ -28,7 +28,6 @@
 	.lalagyan > div {
   		background-color: #6e4319;
   		padding: 20px 0;
-  		font-size: 30px;
 		border-radius:25px;
 	}	
 </style>
@@ -71,11 +70,13 @@
 							 class="ecommerce">
 						<br>
                         <p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
-                            This is the most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its  E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
+                            This is the most common type of business model. B2C E-commerce means that the companies 
+				sell directly to the end-user. Amazon is an example of B2C as it sells its products on its  
+				E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
                         </p>
 						</div>
 					</div>
-				<div class="card h-100">
+		<div class="card h-100">
 					<div class="col-6 col-sm-4">
 						<h4>Business to Business (B2B)</h4>
 						<img src="img/Types of E-Commerce/B2B.png" 
@@ -85,7 +86,10 @@
 						     class="ecommerce">
 						<br>
 						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
-                            B2B E-commerce is the transaction of businesses to other businesses. An example would be sourcing products from manufacturers to wholesalers, such as selling shoes from a factory to a shop on an online platform. Nike and Adidas have their brand on online platforms such as Amazon may be an example of B2B.
+                            B2B E-commerce is the transaction of businesses to other businesses. An example would be 
+				sourcing products from manufacturers to wholesalers, such as selling shoes from a factory 
+				to a shop on an online platform. Nike and Adidas have their brand on online platforms such 
+				as Amazon may be an example of B2B.
 							</p>
 					</div>
 				</div>
