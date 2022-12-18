@@ -30,7 +30,12 @@
 		border-radius:25px;
 		text-align:center;
 		overflow: auto;
-	}	
+	}
+	.lalagyan > div > p {
+  		
+  		padding: 10px;
+		text-indent: 30px;
+	}
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
@@ -84,7 +89,7 @@
 						     alt="B2B Logo" 
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p class="text-faded" class="text-justify">
                             B2B E-commerce is the transaction of businesses to other businesses. An example would be 
 				sourcing products from manufacturers to wholesalers, such as selling shoes from a factory 
 				to a shop on an online platform. Nike and Adidas have their brand on online platforms such 
@@ -100,7 +105,7 @@
 						     alt="B2G Logo"
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p class="text-faded" class="text-justify">
                            B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack.
 							</p>
 					
@@ -114,7 +119,7 @@
 						     alt="B2G Logo"
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p class="text-faded" class="text-justify">
                            C2C E-commerce refers to consumer-to-consumer transactions. Customers purchase goods from other customers through a third-party platform or business. Some examples of this are through the use of online auction-listing websites and selling applications. Some examples of these are eBay, Mercari, OLX, and Depop.
 							</p>
 					
@@ -128,7 +133,7 @@
 						     alt="B2G Logo"
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p class="text-faded" class="text-justify">
                            C2B E-commerce refers to consumer-to-business transactions. In this e-commerce model, the consumer provides value to the business. Consumers offer products or services to businesses in change for payment or other benefits. This type of E-commerce transaction allows the consumer and the business to have a mutually beneficial relationship. An example of this is an influencer promoting a business by using affiliate links.
 							</p>
 					
@@ -142,7 +147,7 @@
 						     alt="B2G Logo"
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p class="text-faded" class="text-justify">
                            C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through  e-commerce platforms like G-Cash.
 							</p>
 					
