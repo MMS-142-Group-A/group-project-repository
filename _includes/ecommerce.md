@@ -32,14 +32,15 @@
 		text-align:center;
 		overflow: auto;
 	}
-	.lalagyan > div:hover {
-		border-top: 10px solid #FFFDFB;
-  		background-color: black;
-	}
+	
 	.lalagyan > div > p {
   		
   		padding: 20px;
 		text-indent: 30px;
+	}
+	.lalagyan > div >p:hover {
+		border-top: 10px solid #FFFDFB;
+  		background-color: black;
 	}
 </style>
 <section class="bg-primary" id="ecommerce">
