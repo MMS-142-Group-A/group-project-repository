@@ -32,6 +32,10 @@
 		text-align:center;
 		overflow: auto;
 	}
+	.lalagyan > div:hover {
+		border-top: 10px solid #E4A699;
+  		background-color: black;
+	}
 	.lalagyan > div > p {
   		
   		padding: 20px;
@@ -162,7 +166,7 @@
 <section class="bg-primary">
        <div>
         <div class="container">
-        <div class="row;margin-left:40em;margin-right:40em"> 
+        <div class="row;margin-left:40em;margin-right:40em" style="text-align:center"> 
                 <h3><strong>
                   Advantages and Disadvantages
                  </strong></h3>
