@@ -22,7 +22,7 @@
   		gap: 10px;
   		padding: 10px;
 		align-content: center;
-		overflow: auto;
+		
 	}
 
 	.lalagyan > div {
@@ -30,6 +30,7 @@
   		padding: 20px 0;
 		border-radius:25px;
 		text-align:center;
+		overflow: auto;
 	}	
 </style>
 <section class="bg-primary" id="ecommerce">
