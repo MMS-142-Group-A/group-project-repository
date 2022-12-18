@@ -40,6 +40,13 @@
 	.card:hover {
   		background-image: url("visuals, bg, & graphics/blk.jpg");
 	}
+	
+	@media only screen and (max-width:550px){
+		.lalagyan{
+			grid-template-columns: 1fr;
+			grid-template-rows: 300px 300px 300px 300px 300px 300px;
+		}
+	} 
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
