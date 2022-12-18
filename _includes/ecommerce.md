@@ -11,12 +11,13 @@
 		margin-right: auto;
 		width: 50%;
 	}
+	
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">What is E-commerce?</h2>
+                <h2 class="section-heading"><strong>What is E-commerce?</strong></h2>
                 <hr class="light">
                 <p class="text-faded">Andrew Bloomenthal (2022) defined Electronic Commerce or E-commerce as the online selling and purchasing of goods and services. It can only be done through any smart device (i.e. tablet, smartphone, computer) that can connect to the internet.</p>
                 <img src="insert image" alt="">
@@ -26,21 +27,21 @@
     <div>
         <div class="container">
         <div class="row;margin-left:20em;margin-right:20em">    
-                <h3>
+                <h3><strong>
                 How does it work?
-                </h3>
+                </strong></h3>
                 <p class="text-faded">
                 E-commerce uses ICT to support a business' external relationships and interactions with people, organizations, and other businesses. According to Kütz (2016), mobile commerce, electronic funds transfers, internet marketing, online transaction processing, and automated data collection systems are just a handful of the technologies utilized in e-commerce. Most E-commerce uses the internet for at least one phase of the transaction's life cycle. To simplify, customers visit a website or online store and make purchases using electronic payments. The merchant sends the products or renders the service after receiving the payment. (Fuscaldo, 2022)
                 </p>
             <br>
-                <h3 class="top-h3"> The 6 Types of E-commerce </h3>
+                <h3 class="top-h3"><strong> The 6 Types of E-commerce </strong></h3>
                 <p class="text-faded">
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
 				<div class="card h-100">
 					<div class="col-6 col-sm-4">
-						<h4>Business to Consumer (B2C)</h4>
+						<h4><strong>Business to Consumer (B2C)</strong></h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
 							 height= 150
@@ -133,7 +134,7 @@
                  </h3>
 				 <img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
 						     width= auto
-							 height = 900
+							 height = 750
 							 class="center">
             <ul>
                  <li>
