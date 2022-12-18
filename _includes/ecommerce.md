@@ -12,6 +12,7 @@
 		width: 50%;
 	}
 	
+	
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
@@ -48,7 +49,7 @@
 							 alt="B2C Logo" 
 							 class="ecommerce">
 						<br>
-                        <p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+                        <p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                             This is the most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its  E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
                         </p>
 						</div>
