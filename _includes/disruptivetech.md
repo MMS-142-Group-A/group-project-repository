@@ -41,7 +41,8 @@
                     Disruptive technologies make everyday life more convenient by providing new notable attributes that make it possible to 
                     replace old systems or habits (Provato Group, 2020).
                 </p>
-        </div> 
+        </div>
+        <hr>
             <br>
         <div class="component-3">
             <div class="advt-deavt">
@@ -56,7 +57,8 @@
                 <div class="adv-comp">
                     <h4><b>1. E-Commerce made transactions simple, and convenient </b></h4>
                     <p class="text-justify">
-                        Disruptive technology is not about upgrading services or products, which is what sustaining innovation is all about. Disruptive innovation is about making new services or products that are simple and cheap that meet the needs of customers, which makes them more available in the market. E-commerce is like that. Compared to physical shopping establishments, it offers accessibility to transactions making it simple, which is what customers need. The simplicity and accessibility of E-commerce are evident through… 
+                        <br>
+                        &nbsp &nbsp &nbsp &nbsp      Disruptive technology is not about upgrading services or products, which is what sustaining innovation is all about. Disruptive innovation is about making new services or products that are simple and cheap that meet the needs of customers, which makes them more available in the market. E-commerce is like that. Compared to physical shopping establishments, it offers accessibility to transactions making it simple, which is what customers need. The simplicity and accessibility of E-commerce are evident through… 
                     </p>
                     <ul>
                         <li>
@@ -85,6 +87,7 @@
                     <h4 >
                        <b> 2. The trend of e-commerce over time and how it alters the way
                         consumers, businesses, and the industry operate.</b>
+                        <br>
                     </h4>
                     
                     <p class="text-justify">
@@ -111,7 +114,8 @@
                         (without completely replacing those physical establishments
                         entirely)</b>
                     </h4>
-                    <p class="text-justify"> 
+                    <p class="text-justify">
+                        <br>
                         Indeed, technology revolutionized the way we shop – whether this is online or in person. Technology especially in E-Commerce, 
                         is playing an essential role in managing the interaction between the shopper and seller. In E-Commerce, these business platforms 
                         exhibit a remarkable ‘interactivity’ experience that establishes sophistication, reliability and more saleable products or services.
@@ -130,13 +134,13 @@
                         Instead, technology reimagined shopping into a digitalized version. Shopping now becomes a conjunction of what consumers had 
                         gotten used to. The online experience that they have recently grown fond of and the brands that have a better understanding 
                         created a seamless transition between the two.
-                        <br>
+                        <br><br>
                         <img src="visuals, bg, & graphics/bf5.png" width= 854 height= 480 alt="Virtual Fitting Room" class="visuals">
                         <br><br>
                         ‘Adidas Cyberfit’ is one of the most famous examples wherein you can try on clothes without needing to remove the shopper’s clothes. 
                         Moreover, ‘Topshop’ and ‘Timberland’ also introduced the “virtual fitting room” where shoppers can see an image of themselves projected 
                         onto a large screen, and they then can try on clothing without having to search for sizes and different colors within the actual shop.
-                        <br>
+                        <br><br>
                         E-commerce offers a wide variety of interactive experience among shoppers and retailers: grocery shopping can be completed without 
                         human interaction, likewise, we can purchase and check-in our flights without the need to be processed by an agent.
                         <br><br>
@@ -146,6 +150,7 @@
                     </p>
                 </div>
             </div>
+            <hr>
             <div class="advt-deavt">
                 <br><br>
                 <h3 style="text-align:center">
