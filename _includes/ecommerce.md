@@ -44,7 +44,7 @@
 	@media only screen and (max-width:550px){
 		.lalagyan{
 			grid-template-columns: 1fr;
-			grid-template-rows: 300px 300px 300px 300px 300px 300px;
+			grid-template-rows: 500px 500px 500px 500px 500px 500px;
 		}
 	} 
 </style>
