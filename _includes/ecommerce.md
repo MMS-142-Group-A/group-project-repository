@@ -19,14 +19,15 @@
   		display: grid;
   		grid-template-columns: auto auto auto;
   		gap: 10px;
-  		background-color: #9e632f;
   		padding: 10px;
+		align-content: justify;
 	}
 
 	.lalagyan > div {
-  		background-color: rgba(255, 255, 255, 0.8);
+  		background-color: #6e4319;
   		padding: 20px 0;
   		font-size: 30px;
+		border-radius:25px;
 	}	
 </style>
 <section class="bg-primary" id="ecommerce">
