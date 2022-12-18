@@ -17,15 +17,15 @@
 	
 	.lalagyan {
   		display: grid;
-  		grid-template-columns: 400px 400px 400px;
-		grid-template-rows: auto auto auto;
+  		grid-template-columns: auto auto auto;
+		grid-template-rows: 600px 600px 600px;
   		gap: 15px;
   		padding: 10px;
 		margin: auto;
 	}
 
 	.lalagyan > div {
-  		background-color: #6e4319;
+  		background-color: #9F3F2A;
   		padding: 10px ;
 		border-radius:35px;
 		text-align:center;
