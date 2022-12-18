@@ -19,7 +19,7 @@
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading"><strong>What is E-commerce?</strong></h2>
                 <hr class="light">
-                <p class="text-faded">Andrew Bloomenthal (2022) defined Electronic Commerce or E-commerce as the online selling and purchasing of goods and services. It can only be done through any smart device (i.e. tablet, smartphone, computer) that can connect to the internet.</p>
+                <p>Andrew Bloomenthal (2022) defined Electronic Commerce or E-commerce as the online selling and purchasing of goods and services. It can only be done through any smart device (i.e. tablet, smartphone, computer) that can connect to the internet.</p>
                 <img src="insert image" alt="">
                </div>
             </div>
@@ -30,12 +30,12 @@
                 <h3><strong>
                 How does it work?
                 </strong></h3>
-                <p class="text-faded">
+                <p>
                 E-commerce uses ICT to support a business' external relationships and interactions with people, organizations, and other businesses. According to Kütz (2016), mobile commerce, electronic funds transfers, internet marketing, online transaction processing, and automated data collection systems are just a handful of the technologies utilized in e-commerce. Most E-commerce uses the internet for at least one phase of the transaction's life cycle. To simplify, customers visit a website or online store and make purchases using electronic payments. The merchant sends the products or renders the service after receiving the payment. (Fuscaldo, 2022)
                 </p>
             <br>
                 <h3 class="top-h3"><strong> The 6 Types of E-commerce </strong></h3>
-                <p class="text-faded">
+                <p>
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
@@ -48,7 +48,7 @@
 							 alt="B2C Logo" 
 							 class="ecommerce">
 						<br>
-                        <p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+                        <p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                             This is the most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its  E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
                         </p>
 						</div>
@@ -62,7 +62,7 @@
 						     alt="B2B Logo" 
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                             B2B E-commerce is the transaction of businesses to other businesses. An example would be sourcing products from manufacturers to wholesalers, such as selling shoes from a factory to a shop on an online platform. Nike and Adidas have their brand on online platforms such as Amazon may be an example of B2B.
 							</p>
 					</div>
@@ -76,7 +76,7 @@
 						     alt="B2G Logo"
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                            B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack.
 							</p>
 					</div>
@@ -90,7 +90,7 @@
 						     alt="B2G Logo"
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                            C2C E-commerce refers to consumer-to-consumer transactions. Customers purchase goods from other customers through a third-party platform or business. Some examples of this are through the use of online auction-listing websites and selling applications. Some examples of these are eBay, Mercari, OLX, and Depop.
 							</p>
 					</div>
@@ -104,7 +104,7 @@
 						     alt="B2G Logo"
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                            C2B E-commerce refers to consumer-to-business transactions. In this e-commerce model, the consumer provides value to the business. Consumers offer products or services to businesses in change for payment or other benefits. This type of E-commerce transaction allows the consumer and the business to have a mutually beneficial relationship. An example of this is an influencer promoting a business by using affiliate links.
 							</p>
 					</div>
@@ -118,7 +118,7 @@
 						     alt="B2G Logo"
 						     class="ecommerce">
 						<br>
-						<p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                            C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through  e-commerce platforms like G-Cash.
 							</p>
 					</div>
