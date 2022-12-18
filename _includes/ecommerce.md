@@ -64,7 +64,7 @@
 					</div>
 				</div>
 						<div class="card h-100">
-							<div class="col-6 col-sm-4">
+						<div class="col-6 col-sm-4">
 							<h4> Business to Government (B2G) </h4>
 							<img src="img/Types of E-Commerce/B2G.png"  
 							 width= 150
