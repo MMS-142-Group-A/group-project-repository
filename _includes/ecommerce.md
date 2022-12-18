@@ -38,7 +38,7 @@
   		padding: 20px;
 		text-indent: 30px;
 	}
-	.lalagyan > div >p:hover {
+	.lalagyan:hover {
 		border-top: 10px solid #FFFDFB;
   		background-color: black;
 	}
@@ -171,7 +171,7 @@
                 <h3><strong>
                   Advantages and Disadvantages
                  </strong></h3>
-				
+		<br>		
 		<div id= "gAD">
 			<img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
 				width= auto
