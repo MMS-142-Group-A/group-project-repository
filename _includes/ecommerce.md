@@ -17,12 +17,10 @@
 	
 	.lalagyan {
   		display: grid;
-  		grid-template-columns: 400px 400px 400px;
+  		grid-template-columns: auto auto auto auto;
 		grid-template-rows: auto auto auto;
   		gap: 10px;
-  		padding: 10px;
-		align-content: center;
-		
+  		padding: 10px;	
 	}
 
 	.lalagyan > div {
@@ -65,19 +63,15 @@
 		<div class="card h-100">
 					<div class="col-6 col-sm-4">
 						<h4>Business to Consumer (B2C)</h4><br>
-                        <img src="img/Types of E-Commerce/B2C.png" 
-						     width= 150
-							 height= 150
-							 alt="B2C Logo" 
-							 class="ecommerce">
+                        <img src="img/Types of E-Commerce/B2C.png" alt="B2C Logo" class="ecommerce">
 						<br>
                         <p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                             This is the most common type of business model. 
-				<br>B2C E-commerce means that the companies 
+				B2C E-commerce means that the companies 
 				sell directly to the end-user. Amazon is an 
-				<br>example of B2C as it sells its products on its  
-				<br>E-commerce website. Another is through the use 
-				<br>of their website, such as Linus Tech Tip’s store.
+				example of B2C as it sells its products on its  
+				E-commerce website. Another is through the use 
+				of their website, such as Linus Tech Tip’s store.
                         </p>
 						</div>
 					</div>
