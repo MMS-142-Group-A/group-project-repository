@@ -28,12 +28,12 @@
 		background-image: radial-gradient(#C74F35, #9F3F2A);
   		padding: 10px ;
 		border-radius:35px;
-		border-top: 10px solid #E4A699;
+		border-top: 10px solid #FFFDFB;
 		text-align:center;
 		overflow: auto;
 	}
 	.lalagyan > div:hover {
-		border-top: 10px solid #E4A699;
+		border-top: 10px solid #FFFDFB;
   		background-color: black;
 	}
 	.lalagyan > div > p {
