@@ -62,20 +62,20 @@
                         <li>
                             <p class="text-justify">
                                 Shopping without worrying about the schedules of physical stores and leaving the
-                                comfort of their home (Malloy, 2019).
+                                comfort of their home (Quinn, 2019).
                             </p>
                         </li>
                         <li>
                             <p class="text-justify">
                                 Much cheaper products compared to the products available in malls and/or offers a
-                                variety of much cheaper alternatives (Malloy, 2019).
+                                variety of much cheaper alternatives (Quinn, 2019).
                             </p>
                         </li>
                         <li>
                             <p class="text-justify">
                                 Having an enormous variety of products that you can easily browse using their gadgets
                                 to see which to purchase without the hassle of roaming around the physical business
-                                establishments (Malloy, 2019).
+                                establishments (Quinn, 2019).
                             </p>
                         </li>
                     </ul>
