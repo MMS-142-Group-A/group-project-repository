@@ -38,9 +38,9 @@
   		padding: 20px;
 		text-indent: 30px;
 	}
-	.lalagyan:hover {
+	.lalagyan >div:hover {
 		border-top: 10px solid #FFFDFB;
-  		background-color: black;
+  		background-image: radial-gradient(black);
 	}
 </style>
 <section class="bg-primary" id="ecommerce">
