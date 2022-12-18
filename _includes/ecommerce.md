@@ -66,7 +66,7 @@
                 How does it work?
                 </strong></h3>
                 <p class="text-faded">
-                E-commerce uses ICT to support a business' external relationships and interactions with people, organizations, and other businesses. According to Kütz (2016), mobile commerce, electronic funds transfers, internet marketing, online transaction processing, and automated data collection systems are just a handful of the technologies utilized in e-commerce. Most E-commerce uses the internet for at least one phase of the transaction's life cycle. To simplify, customers visit a website or online store and make purchases using electronic payments. The merchant sends the products or renders the service after receiving the payment (Fuscaldo, 2022).
+                E-commerce uses ICT to support a business' external relationships and interactions with people, organizations, and other businesses. According to Kütz (2016), mobile commerce, electronic funds transfers, internet marketing, online transaction processing, and automated data collection systems are just a handful of the technologies utilized in E-commerce. Most E-commerce uses the internet for at least one phase of the transaction's life cycle. To simplify, customers visit a website or online store and make purchases using electronic payments. The merchant sends the products or renders the service after receiving the payment (Fuscaldo, 2022).
                 </p>
             <br>
                 <h3 class="top-h3"><strong> The 6 Types of E-commerce </strong></h3>
@@ -159,7 +159,7 @@
 						     class="ecommerce">
 						<br>
 						<p class="text-faded" class="text-justify">
-                           C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through  e-commerce platforms like G-Cash.
+                           C2G E-Commerce refers to the consumer-to-government business model. This type of E-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through  E-commerce platforms like G-Cash.
 							</p>
 					
 		</div>
@@ -190,7 +190,7 @@
                         <li>
                             <h4>Larger Market </h4>
                             <p class= "text-faded"> 
-                                E-commerce allows a business to tap into a larger market than a local market. Especially in the age of Globalization. Wherein one can have foreign goods delivered to their doorstep throughout the globe. 
+                                E-commerce allows a business to tap into a larger market than a local market. Especially in the age of globalization. Wherein one can have foreign goods delivered to their doorstep throughout the globe. 
                             </p>
                         </li>
                         <li>
