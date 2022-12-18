@@ -11,7 +11,9 @@
 		margin-right: auto;
 		width: 50%;
 	}
-	
+	.gAD img {
+	margin: 30px 60px;
+	}
 	
 </style>
 <section class="bg-primary" id="ecommerce">
@@ -126,19 +128,19 @@
 				</div> 				
 </section>
 <br>
-<section class="bg-primary"
+<section class="bg-primary">
        <div>
         <div class="container">
         <div class="row;margin-left:40em;margin-right:40em"> 
                 <h3><strong>
                   Advantages and Disadvantages
                  </strong></h3>
-				 
-				 
-				 <img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
-						     width= auto
-							 height = auto
-							 class="center">
+				
+		<div id= "gAD">
+			<img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
+				width= auto
+				height = auto
+				class="center">
             <ul>
                  <li>
                 <h3><strong> Advantages </strong></h3>
