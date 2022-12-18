@@ -92,7 +92,6 @@
                         </p>
 							</div>
 						</div>
-						<div class="w-100"><div>
 							<div class="col-6 col-sm-4">
 							<div class="card h-100">
 							<h4> Consumer to Business (C2B) </h4>
