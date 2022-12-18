@@ -23,10 +23,10 @@
         <div class="components">
             <div class="mid-side">
                 
-                <br><br>
+                <br>
                 
                 <p style="text-align:justify" class="text-justify">
-                     Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements.However,                          there is still continuous development in the field of technology that is bringing paradigm shifts. These technologies are often referred to as                        disrupted technology    
+                     Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements.However,                          there is still continuous development in the field of technology that is bringing paradigm shifts. These technologies are often referred to as                        disrupted technology.    
                 </p>    
                     <br><br>
                 <p style="text-align:justify" class="text-justify">
@@ -56,7 +56,8 @@
                     <h4><b>1. E-Commerce made transactions simple, and convenient </b></h4>
                     <p class="text-justify">
                         <br>
-                        &nbsp &nbsp &nbsp &nbsp      Disruptive technology is not about upgrading services or products, which is what sustaining innovation is all about. Disruptive innovation is about making new services or products that are simple and cheap that meet the needs of customers, which makes them more available in the market. E-commerce is like that. Compared to physical shopping establishments, it offers accessibility to transactions making it simple, which is what customers need. The simplicity and accessibility of E-commerce are evident through… 
+                        &nbsp &nbsp &nbsp &nbsp      Disruptive technology is not about upgrading services or products, which is what sustaining innovation is all about. Disruptive innovation is about making new services or products that are simple and cheap that meet the needs of customers, which makes them more available in the market. E-commerce is like that. Compared to physical shopping establishments, it offers accessibility to transactions making it simple, which is what customers need. 
+                        The simplicity and accessibility of E-commerce are evident through… 
                     </p>
                     <ul>
                         <li>
@@ -84,13 +85,13 @@
                     <br>
                     <h4 >
                        <b> 2. The trend of e-commerce over time and how it alters the way
-                        consumers, businesses, and the industry operate.</b>
+                        consumers, businesses, and the industry operate</b>
                         <br>
                     </h4>
                     
                     <p class="text-justify">
                          In the earliest years of e-commerce, websites like Amazon and eBay already existed (BigCommerce, n.d.). Then, in recent years in the Philippines, buy and sell websites such as Sulit.com.ph became known to Filipinos (Phoebe, 2013). They also had TV commercials. Even Instagram shops and Facebook Marketplace are also already present. 
-                        <br>And before the pandemic, Shopee was already making noise in the industry (The Manila Times, 2018). But before, these kinds of e-commerce websites didn't seem like a threat to business establishments like malls. However, the pandemic came, which made drastic changes in how customers avail products and services and even how businesses sell products because of the need for a new safe way of transactions without close contact with the people because of the COVID-19 Virus. And E-commerce provided that need at that time. Many businesses went online and built their online presence. This phenomenon was evident in the rising share of digital retail trade in the global market from 14 percent pre-pandemic (2019) to 17 percent during the onset of the pandemic (2020) (UNCTAD, 2021).  
+                        <br>And before the pandemic, Shopee was already making noise in the industry (The Manila Times, 2018). But before, these kinds of e-commerce websites didn't seem like a threat to business establishments like malls. However, the pandemic came, which made drastic changes in how customers avail products and services and even how businesses sell products because of the need for a new safe way of transactions without close contact with the people because of the COVID-19 Virus. And E-commerce provided that need at that time. Many businesses went online and built their online presence. This phenomenon was evident in the rising share of digital retail trade in the global market from 14 percent pre-pandemic (2019) to 17 percent during the onset of the pandemic (2020) (United Nations Conference on Trade and Development, 2021).  
 
                     </p>
                     <img src="visuals, bg, & graphics/bf1.png" width= 854 height= 480 alt="before the pandemic" class="visuals">
@@ -165,9 +166,7 @@
                         increasing the competition between small businesses and traditional stores. E-commerce is continuously growing and expanded over the years. 
                         It helped a lot of businesses establish their name, affecting society and people as a whole.
                         <br><br>
-                        The impacts of e-commerce as a disruptive technology can be boiled down to three individual components of the business system namely 
-                        <br>(1) Consumer, (2) Business, and (3) Industry, the following aims to elaborate and give specificity 
-                        <br>on how e-commerce was able to change the way they operate:
+                        The impacts of e-commerce as a disruptive technology can be boiled down to three individual components of the business system namely <b>(1) Consumer, (2) Business, and (3) Industry,</b> the following aims to elaborate and give specificity on how e-commerce was able to change the way they operate:
                     </p>
                      <br><br>
                     <h4>                    
@@ -176,15 +175,15 @@
                         </b>
                     </h4>
                     <p class="text-justify">             
-&nbsp &nbsp &nbsp &nbsp      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space 2022). 
+&nbsp &nbsp &nbsp &nbsp      The rise of e-commerce created a drastic change in consumer behavior. It is within the consumer’s control “where, when, and how to shop” (ESW, 2022) as they are no longer tied to concepts such as “shopping hours'' or “shop locations” of physical establishments that the consumers have to meet in order to create transactions. When people come to online platforms, they know that they also have access to specific products that they know are not available on physical establishments due to the wider options and scope that e-commerce provides. Especially when they are the “busy” type and have no time to  wander around the mall, they can count on e-commerce without leaving the house (Meteor Space, 2022). 
                     </p>
                     <img src="visuals, bg, & graphics/bf4.png" width= 854 height= 480 alt="e-commerce and people" class="visuals">
                     <br>
                     <p class="text-justify">
-&nbsp &nbsp &nbsp &nbsp      With the consumer at the center of the system, the expectations of the consumers have also shifted. Similar to other online platforms, e-commerce is a learning system made to cater individuals by learning from their activity within the interface in order to create a mindset that the shopping experience should be a personalized one. Such subconscious influence to their mindset creates a greater expectation of consumers to companies and other shops to make their experience personalized (ESW 2022). 
+&nbsp &nbsp &nbsp &nbsp      With the consumer at the center of the system, the expectations of the consumers have also shifted. Similar to other online platforms, e-commerce is a learning system made to cater individuals by learning from their activity within the interface in order to create a mindset that the shopping experience should be a personalized one. Such subconscious influence to their mindset creates a greater expectation of consumers to companies and other shops to make their experience personalized (ESW, 2022). 
 <br>
 <br/>
-&nbsp &nbsp &nbsp &nbsp       Lastly, e-commerce has altered shopping to be a social activity for the consumers packaged in a form similar to the social media experience. Rather than taking brands at face value or how the brand advertise themselves, consumers are more trusting of the reviews of products that strangers provide. Because of the social engagements that happen within e-commerce platforms, consumers are making more informed decisions on buying particular products from different brands and shops (ESW 2022). On the other hand, impulse buying was recorded worldwide to spike due to the online platform, especially since there were discount or voucher strategies that were implemented (Dujardin, 2022)                   
+&nbsp &nbsp &nbsp &nbsp       Lastly, e-commerce has altered shopping to be a social activity for the consumers packaged in a form similar to the social media experience. Rather than taking brands at face value or how the brand advertise themselves, consumers are more trusting of the reviews of products that strangers provide. Because of the social engagements that happen within e-commerce platforms, consumers are making more informed decisions on buying particular products from different brands and shops (ESW, 2022). On the other hand, impulse buying was recorded worldwide to spike due to the online platform, especially since there were discount or voucher strategies that were implemented (Dujardin, 2022)                   
                     </p>
                 </div>
                 <div class="adv-comp article">
@@ -205,10 +204,10 @@
 &nbsp &nbsp &nbsp &nbsp       Due to e-commerce, business models are shifted to include or switch to e-commerce platforms apart from their physical store-front shops. Scaling up one’s business has never been easier and cheaper before, compared to up-keeping physical brick-and-mortar establishments. Additionally, the customers themselves act as the business’s advertiser through reviews and self-searching wherein e-commerce platform algorithms advertise the products to their users for “free”.
 <br>
 <br>                      
-&nbsp &nbsp &nbsp &nbsp  E-commerce has allowed businesses to operate 24 hours a day and be accessible to wider range of consumers from distant places (Morris 2021), giving the business more flexibility and a bigger customer population pool. One huge benefit of e-commerce was the ability of companies to penetrate the international market. Through online shopping platforms, local businesses can offer their products to international consumers and have them delivered (Kiran, 2020). Thus, instead of the traditional way of being a multinational company, firms today have a more convenient way in pursuit of growth.
+&nbsp &nbsp &nbsp &nbsp  E-commerce has allowed businesses to operate 24 hours a day and be accessible to wider range of consumers from distant places (Morris, 2021), giving the business more flexibility and a bigger customer population pool. One huge benefit of e-commerce was the ability of companies to penetrate the international market. Through online shopping platforms, local businesses can offer their products to international consumers and have them delivered (Kiran, 2020). Thus, instead of the traditional way of being a multinational company, firms today have a more convenient way in pursuit of growth.
 <br>
 <br>                   
-&nbsp &nbsp &nbsp &nbsp   On the other hand, data collection features in e-commerce platforms provide business owners with statistical data about consumers that they can use to scout what products are the most or least popular in their shops. They can also use this data to improve their marketing strategy by including popular keywords related to their product to give them a boost in web searchability. Data collection is then improving the ability of businesses to listen to what the customers want (Liqui-site 2020).
+&nbsp &nbsp &nbsp &nbsp   On the other hand, data collection features in e-commerce platforms provide business owners with statistical data about consumers that they can use to scout what products are the most or least popular in their shops. They can also use this data to improve their marketing strategy by including popular keywords related to their product to give them a boost in web searchability. Data collection is then improving the ability of businesses to listen to what the customers want (Liqui-Site 2020).
                     </p>              
                     <p>
                         <span>
