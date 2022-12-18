@@ -17,7 +17,7 @@
 	
 	.lalagyan {
   		display: grid;
-  		grid-template-columns: auto auto auto;
+  		grid-template-columns: 400px 400px 400px;
 		grid-template-rows: auto auto auto;
   		gap: 10px;
   		padding: 10px;
@@ -26,7 +26,7 @@
 
 	.lalagyan > div {
   		background-color: #6e4319;
-  		padding: 5px ;
+  		padding: 10px ;
 		border-radius:25px;
 		text-align:center;
 		overflow: auto;
