@@ -37,7 +37,7 @@
   		padding: 20px;
 		text-indent: 30px;
 	}
-	.lalagyan > div:hover {
+	.card:hover {
   		background-color: black;
 	}
 </style>
@@ -70,7 +70,7 @@
 		
 		
 <div class="lalagyan">				
-		<div class="cardh-100">
+		<div class="card">
 					
 						<h4>Business to Consumer (B2C)</h4><br>
                         <img src="img/Types of E-Commerce/B2C.png" alt="B2C Logo" width= 150 height= 150 class="ecommerce">
@@ -85,7 +85,7 @@
                         </p>
 						
 		</div>
-		<div class="cardh-100">
+		<div class="card">
 				<h4>Business to Business (B2B)</h4>
 						<img src="img/Types of E-Commerce/B2B.png" 
 						     width= 150
@@ -101,7 +101,7 @@
 							</p>
 					
 		</div>
-		<div class="cardh-100">
+		<div class="card">
 						<h4> Business to Government (B2G)</h4>
 						<img src="img/Types of E-Commerce/B2G.png"
 						     width= 150
@@ -114,7 +114,7 @@
 							</p>
 					
 		</div>
-		<div class="cardh-100">
+		<div class="card">
 					
 						<h4>Consumer to Consumer (C2C)</h4>
 						<img src="img/Types of E-Commerce/C2C.png"
@@ -128,7 +128,7 @@
 							</p>
 					
 		</div>
-		<div class="cardh-100">
+		<div class="card">
 					
 						<h4>Consumer to Business (C2B)</h4>
 						<img src="img/Types of E-Commerce/C2B.png"
@@ -142,7 +142,7 @@
 							</p>
 					
 		</div>    
-		<div class="cardh-100">
+		<div class="card">
 					
 						<h4>Consumer to Government (C2G)</h4>
 						<img src="img/Types of E-Commerce/C2G.png"
@@ -165,8 +165,8 @@
 <section class="bg-primary">
        <div>
         <div class="container">
-        <div class="row;margin-left:40em;margin-right:40em" style="text-align:center"> 
-                <h3><strong>
+        <div class="row;margin-left:40em;margin-right:40em"> 
+                <h3  style="text-align:center"><strong>
                   Advantages and Disadvantages
                  </strong></h3>
 		<br>		
