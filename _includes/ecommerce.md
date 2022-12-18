@@ -104,9 +104,7 @@
 				 <img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
 						     width= auto
 							 height = 1000
-							 = display: block; margin-left: auto; margin-right:auto;"
-							 alt="Advantages and Disadvatages"
-							 >
+							 class="container">
             <ul>
                  <li>
                 <h3> Advantages </h3>
