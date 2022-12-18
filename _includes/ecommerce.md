@@ -136,7 +136,7 @@
 				 
 				 <img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
 						     width= auto
-							 height = 750
+							 height = auto
 							 class="center">
             <ul>
                  <li>
