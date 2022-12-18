@@ -5,6 +5,12 @@
         margin-right: auto;
         height: auto;
     }
+	.center {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+	}
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
@@ -89,9 +95,34 @@
 							</p>
 					</div>
 				</div>
-				
-							
-			                                     
+			    <div class="card h-100">
+					<div class="col-6 col-sm-4">
+						<h4> Consumer to Business (C2B) </h4>
+						<img src="img/Types of E-Commerce/C2B.png"
+						     width= 150
+						     height= 150
+						     alt="B2G Logo"
+						     class="ecommerce">
+						<br>
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+                           C2B E-commerce refers to consumer-to-business transactions. In this e-commerce model, the consumer provides value to the business. Consumers offer products or services to businesses in change for payment or other benefits. This type of E-commerce transaction allows the consumer and the business to have a mutually beneficial relationship. An example of this is an influencer promoting a business by using affiliate links.
+							</p>
+					</div>
+				</div>    
+			    <div class="card h-100">
+					<div class="col-6 col-sm-4">
+						<h4> Consumer to Government (C2G) </h4>
+						<img src="img/Types of E-Commerce/C2G.png"
+						     width= 150
+						     height= 150
+						     alt="B2G Logo"
+						     class="ecommerce">
+						<br>
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+                           C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through e-commerce platforms like G-Cash.
+							</p>
+					</div>
+				</div> 				
 </section>
 <br>
 <section class="bg-primary"
@@ -104,7 +135,7 @@
 				 <img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
 						     width= auto
 							 height = 1000
-							 class="container">
+							 class="center">
             <ul>
                  <li>
                 <h3> Advantages </h3>
