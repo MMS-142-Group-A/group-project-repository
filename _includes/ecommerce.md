@@ -39,8 +39,7 @@
 		text-indent: 30px;
 	}
 	.cardh-100:hover {
-		border-top: 10px solid #FFFDFB;
-  		background-image: radial-gradient(black);
+  		background-color: black;
 	}
 </style>
 <section class="bg-primary" id="ecommerce">
