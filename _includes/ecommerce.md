@@ -4,6 +4,7 @@
         margin-left: auto;
         margin-right: auto;
         height: auto;
+		background-color: #f05f40;
     }
 </style>
 <section class="bg-primary" id="ecommerce">
@@ -33,7 +34,7 @@
             </p>
             </div>
 				<div class="card h-100">
-					<div class="col-6 col-sm-4">
+					<div class="col-6 col-sm-4 ">
 						<h4> Business to Consumer(B2C) </h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
@@ -62,7 +63,7 @@
                 </div>
                </div>
               </div>
-                    <div class="card h-100">
+               <div class="card h-100">
 					<div class="col-6 col-sm-4">
                         <h4> Business to Government (B2G) </h4>
                         <img src="img/Types of E-Commerce/B2G.png"  
