@@ -32,22 +32,18 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-			<div class="w4-container">
-			     <div class="card h-100">
-			    <div class="col-6 col-sm-4">
-                    <h4>"Business to Consumer(B2C)" </h4>
-						<div class="w4-container">
-                        <img src="img/Types of E-Commerce/B2C.png" 
+			<div class="card" style="width: 18rem;">
+			 <img class="card-img-top" src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
 							 height= 150
 							 alt="B2C Logo" 
 							 class="ecommerce">
+                    <h3>"Business to Consumer (B2C)" </h3>
 						<br>
                         <p class="text-justify">
                             This is the most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
                         </p>
                     </div>
-                 </div>
                 </div>
                     <div class="card h-100">
 					 <div class="col-6 col-sm-4">
