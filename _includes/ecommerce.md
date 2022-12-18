@@ -62,7 +62,7 @@
 		
 <div class="lalagyan">				
 		<div class="card h-100">
-					<div class="col-6 col-sm-4">
+					
 						<h4>Business to Consumer (B2C)</h4><br>
                         <img src="img/Types of E-Commerce/B2C.png" alt="B2C Logo" width= 150 height= 150 class="ecommerce">
 						<br>
@@ -74,7 +74,7 @@
 				E-commerce website. Another is through the use 
 				of their website, such as Linus Tech Tip’s store.
                         </p>
-						</div>
+						
 					</div>
 		<div class="card h-100">
 					<div class="col-6 col-sm-4">
