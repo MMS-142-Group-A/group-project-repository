@@ -5,9 +5,6 @@
         margin-right: auto;
         height: auto;
     }
-	.bold {
-	font-weight: bold;
-	}
 </style>
 <section class="bg-primary" id="ecommerce">
     <div class="container">
@@ -35,10 +32,9 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-		<div class= "typesOfEcommerce">
 				<div class="card h-100">
 					<div class="col-6 col-sm-4">
-						<h4><span class="bold>Business to Consumer (B2C)</span></h4>
+						<h4>Business to Consumer (B2C)</h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
 							 height= 150
@@ -50,7 +46,6 @@
                         </p>
 						</div>
 					</div>
-                </div>
 				<div class="card h-100">
 					<div class="col-6 col-sm-4">
 						<h4> Business to Business (B2B) </h4>
@@ -62,6 +57,20 @@
 						<br>
 						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                             B2B E-commerce is the transaction of businesses to other businesses. An example would be sourcing products from manufacturers to wholesalers, such as selling shoes from a factory to a shop on an online platform. Nike and Adidas have their brand on online platforms such as Amazon may be an example of B2B.
+							</p>
+					</div>
+				</div>
+				<div class="card h-100">
+					<div class="col-6 col-sm-4">
+						<h4> Business to Government (B2G) </h4>
+						<img src="img/Types of E-Commerce/B2G.png"
+						     width= 150
+						     height= 150
+						     alt="B2G Logo"
+						     class="ecommerce">
+						<br>
+						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+                           B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack (includes devices, communications, protocols, cloud platform, and applications).
 							</p>
 					</div>
 				</div>
