@@ -9,8 +9,7 @@
 				  
 <p>As an innovation,  E-commerce has slowly reshaped transactions, businesses, and industries. It made things easier, from a consumer's time management to an entire business's plan of operation. Even our country, the Philippines, has seen progress and development in e-commerce. Although for many years, it is already existing, its attributes are just recently appreciated and are more evident due to the tremendous changes it makes in society. Now, E-commerce is part of how people do transactions. From that, E-commerce truly suits the category of Disruptive technology. </p>
 			  
-          </div>
-      </div>
+          
   </aside>
 
 </section>
