@@ -17,18 +17,19 @@
 	
 	.lalagyan {
   		display: grid;
-  		grid-template-columns: auto auto auto;
+  		grid-template-columns: 400px 400px 400px;
 		grid-template-rows: auto auto auto;
   		gap: 10px;
   		padding: 10px;
 		align-content: center;
-		overflow: hidden;
+		overflow: auto;
 	}
 
 	.lalagyan > div {
   		background-color: #6e4319;
   		padding: 20px 0;
 		border-radius:25px;
+		text-align:center;
 	}	
 </style>
 <section class="bg-primary" id="ecommerce">
