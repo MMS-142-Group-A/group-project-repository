@@ -28,6 +28,7 @@
 		background-image: radial-gradient(#C74F35, #9F3F2A);
   		padding: 10px ;
 		border-radius:35px;
+		border-top: 10px solid #E4A699;
 		text-align:center;
 		overflow: auto;
 	}
