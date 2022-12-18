@@ -31,7 +31,7 @@
                     <br>These technologies are often referred to as disrupted technology.
                 </p>    
                     <br><br>
-                <p style="text-align:left" class="text-justify">
+                <p style="text-align:justify" class="text-justify">
                     <b>Disruptive Technology</b> is a process where smaller companies create an opportunity to keep up with established businesses 
                     called the “incumbent” by offering cheaper products and services and catering to customers' needs which can significantly 
                     alter the way consumers, businesses, and industries transact (Larson, 2016). It has two types, Low-market disruption, 
