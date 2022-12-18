@@ -11,9 +11,19 @@
 		margin-right: auto;
 		width: 50%;
 	}
-	.gAD {
-	margin: 50px 60px;
+	.flexcontainer {
+	margin: 0;
+	padding: 10;
+	box-sizing:
+		border-box;
+	.flexbox {
+		width: 200px;
+		height: 200px;
+		color: #461c13;
+		text-align: center;
+		
 	}
+	
 	
 </style>
 <section class="bg-primary" id="ecommerce">
@@ -42,7 +52,8 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-				<div class="card h-100">
+			<div class="flex-container">
+				<div class="flexbox">
 					<div class="col-6 col-sm-4">
 						<h4>Business to Consumer (B2C)</h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
@@ -56,7 +67,7 @@
                         </p>
 						</div>
 					</div>
-				<div class="card h-100">
+				<div class="flexbox">
 					<div class="col-6 col-sm-4">
 						<h4>Business to Business (B2B)</h4>
 						<img src="img/Types of E-Commerce/B2B.png" 
@@ -70,7 +81,7 @@
 							</p>
 					</div>
 				</div>
-				<div class="card h-100">
+				<div class="flexbox">
 					<div class="col-6 col-sm-4">
 						<h4> Business to Government (B2G)</h4>
 						<img src="img/Types of E-Commerce/B2G.png"
@@ -84,7 +95,7 @@
 							</p>
 					</div>
 				</div>
-				<div class="card h-100">
+				<div class="flexbox">
 					<div class="col-6 col-sm-4">
 						<h4>Consumer to Consumer (C2C)</h4>
 						<img src="img/Types of E-Commerce/C2C.png"
@@ -98,7 +109,7 @@
 							</p>
 					</div>
 				</div>
-			    <div class="card h-100">
+			   <div class="flexbox">
 					<div class="col-6 col-sm-4">
 						<h4>Consumer to Business (C2B)</h4>
 						<img src="img/Types of E-Commerce/C2B.png"
@@ -112,7 +123,7 @@
 							</p>
 					</div>
 				</div>    
-			    <div class="card h-100">
+			   <div class="flexbox">
 					<div class="col-6 col-sm-4">
 						<h4>Consumer to Government (C2G)</h4>
 						<img src="img/Types of E-Commerce/C2G.png"
