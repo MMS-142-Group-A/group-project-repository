@@ -48,7 +48,7 @@
 							 class="ecommerce">
 						<br>
                         <p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
-                            This is the most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
+                            This is the most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its  E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
                         </p>
 						</div>
 					</div>
@@ -118,7 +118,7 @@
 						     class="ecommerce">
 						<br>
 						<p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
-                           C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through e-commerce platforms like G-Cash.
+                           C2G E-Commerce refers to the consumer-to-government business model. This type of e-commerce bridges the gap between the citizens and the government. C2G e-commerce makes transactions with the government more accessible and convenient. An example of this is paying electricity bills through  e-commerce platforms like G-Cash.
 							</p>
 					</div>
 				</div> 				
