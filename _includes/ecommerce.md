@@ -19,7 +19,7 @@
   		display: grid;
   		grid-template-columns: 400px 400px 400px;
 		grid-template-rows: auto auto auto;
-  		gap: 10px;
+  		gap: 15px;
   		padding: 10px;
 		margin: auto;
 	}
@@ -27,13 +27,13 @@
 	.lalagyan > div {
   		background-color: #6e4319;
   		padding: 10px ;
-		border-radius:25px;
+		border-radius:35px;
 		text-align:center;
 		overflow: auto;
 	}
 	.lalagyan > div > p {
   		
-  		padding: 10px;
+  		padding: 20px;
 		text-indent: 30px;
 	}
 </style>
