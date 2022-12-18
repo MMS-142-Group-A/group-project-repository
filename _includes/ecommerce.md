@@ -21,7 +21,8 @@
 		grid-template-rows: auto auto auto;
   		gap: 10px;
   		padding: 10px;
-		align-content: justify;
+		align-content: center;
+		overflow: hidden;
 	}
 
 	.lalagyan > div {
