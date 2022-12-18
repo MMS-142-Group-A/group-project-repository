@@ -66,7 +66,7 @@
 						<h4>Business to Consumer (B2C)</h4><br>
                         <img src="img/Types of E-Commerce/B2C.png" alt="B2C Logo" width= 150 height= 150 class="ecommerce">
 						<br>
-                        <p class="text-faded" style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
+                        <p class="text-faded" class="text-justify">
                             This is the most common type of business model. 
 				B2C E-commerce means that the companies 
 				sell directly to the end-user. Amazon is an 
