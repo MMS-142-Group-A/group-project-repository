@@ -18,7 +18,7 @@
 	.lalagyan {
   		display: grid;
   		grid-template-columns: auto auto auto;
-		grid-template-rows: 400px 400px 400px;
+		grid-template-rows: auto auto auto;
   		gap: 10px;
   		padding: 10px;
 		align-content: justify;
