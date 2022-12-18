@@ -1,5 +1,5 @@
 <section class="no-padding" id="sources">
-         <aside class="bg-dark">
+         <aside class="light">
       <div class="container text-center">
           <div class="call-to-action">
 		  <h2>Conclusion</h2>
