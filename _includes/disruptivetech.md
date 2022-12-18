@@ -26,9 +26,7 @@
                 <br><br>
                 
                 <p style="text-align:justify" class="text-justify">
-                     Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements. 
-                    <br>However, there is still continuous development in the field of technology that is bringing paradigm shifts. 
-                    <br>These technologies are often referred to as disrupted technology.
+                     Civilization has indeed come a long way, which can be primarily attributed to the progression driven by technological advancements.However,                          there is still continuous development in the field of technology that is bringing paradigm shifts. These technologies are often referred to as                        disrupted technology    
                 </p>    
                     <br><br>
                 <p style="text-align:justify" class="text-justify">
