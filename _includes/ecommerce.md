@@ -41,7 +41,7 @@
   		background-image: url("visuals, bg, & graphics/blk.jpg");
 	}
 	
-	@media only screen and (max-width:550px){
+	@media only screen and (max-width:1000px){
 		.lalagyan{
 			grid-template-columns: 1fr;
 			grid-template-rows: 500px 500px 500px 500px 500px 500px;
