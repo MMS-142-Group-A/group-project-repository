@@ -34,7 +34,6 @@
             </div>
 				<div class="card h-100">
 					<div class="col-6 col-sm-4">
-						<header class="w4-container">
 						<h4> Business to Consumer(B2C) </h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
@@ -49,7 +48,6 @@
                 </div>
 					<div class="card h-100">
 					<div class="col-6 col-sm-4">
-						<header class="w4-container">
                         <h4> Business to Business (B2B) </h4>
                         <img src="img/Types of E-Commerce/B2B.png" 
 						     width= 150
@@ -66,7 +64,6 @@
               </div>
                     <div class="card h-100">
 					<div class="col-6 col-sm-4">
-						<header class="w4-container">
                         <h4> Business to Government (B2G) </h4>
                         <img src="img/Types of E-Commerce/B2G.png"  
 							 width= 150
@@ -82,7 +79,6 @@
                </div>
               <div class="card h-100">
 					<div class="col-6 col-sm-4">
-						<header class="w4-container">
                         <h4> Consumer to Consumer (C2C) </h4>
                         <img src="img/Types of E-Commerce/C2C.png"  
 							 width= 150
@@ -98,7 +94,6 @@
             <div class="w-100"><div>
 			    <div class="col-6 col-sm-4">
                     <div class="card h-100">
-						<header class="w4-container">
                         <h4> Consumer to Business (C2B) </h4>
                         <img src="img/Types of E-Commerce/C2B.png"  
 						    width= 150
@@ -113,7 +108,6 @@
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
-						<header class="w4-container">
                         <h4> Consumer to Government (C2G) </h4>
                         <img src="img/Types of E-Commerce/C2G.png"  
 						     width= 150
