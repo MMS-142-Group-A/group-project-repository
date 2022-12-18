@@ -32,9 +32,10 @@
                 According to Bloomenthal, the types of E-Commerce can be distinguished by the parties that interact through E-Commerce. Each of these has its usage; some are more prominent than others.
             </p>
             </div>
-					<div class="card h-100">
-						<div class="col-6 col-sm-4">
+				<div class="card h-100">
+					<div class="col-6 col-sm-4">
 						<header class="w4-container">
+						<h4> Business to Consumer(B2C) </h4>
                         <img src="img/Types of E-Commerce/B2C.png" 
 						     width= 150
 							 height= 150
@@ -46,8 +47,8 @@
                         </p>
                     </div>
                 </div>
-						<div class="card h-100">
-						<div class="col-6 col-sm-4">
+					<div class="card h-100">
+					<div class="col-6 col-sm-4">
 						<header class="w4-container">
                         <h4> Business to Business (B2B) </h4>
                         <img src="img/Types of E-Commerce/B2B.png" 
@@ -64,7 +65,7 @@
                </div>
               </div>
                     <div class="card h-100">
-					    <div class="col-6 col-sm-4">
+					<div class="col-6 col-sm-4">
 						<header class="w4-container">
                         <h4> Business to Government (B2G) </h4>
                         <img src="img/Types of E-Commerce/B2G.png"  
@@ -79,8 +80,8 @@
                     </div>
                 </div>
                </div>
-                    <div class="card h-100">
-					    <div class="col-6 col-sm-4">
+              <div class="card h-100">
+					<div class="col-6 col-sm-4">
 						<header class="w4-container">
                         <h4> Consumer to Consumer (C2C) </h4>
                         <img src="img/Types of E-Commerce/C2C.png"  
@@ -92,11 +93,10 @@
                         <p class="text-justify">
                             C2C E-commerce refers to consumer-to-consumer transactions. Customers purchase goods from other customers through a third-party platform or business. Some examples of this are through the use of online auction-listing websites and selling applications. Some examples of these are eBay, Mercari, OLX, and Depop.
                         </p>
-                    </div>
-                </div>
+					</div>
              </div>
             <div class="w-100"><div>
-			        <div class="col-6 col-sm-4">
+			    <div class="col-6 col-sm-4">
                     <div class="card h-100">
 						<header class="w4-container">
                         <h4> Consumer to Business (C2B) </h4>
@@ -109,8 +109,7 @@
                         <p class="text-justify">
                             C2B E-commerce refers to consumer-to-business transactions. In this E-commerce model, the consumer provides value to the business. Consumers offer products or services to businesses in change for payment or other benefits. This type of E-commerce transaction allows the consumer and the business to have a mutually beneficial relationship. An example of this is an influencer promoting a business by using affiliate links.
                         </p>
-                    </div>
-                </div>
+					</div>
                 </div>
                 <div class="col-6 col-sm-4">
                     <div class="card h-100">
@@ -128,7 +127,6 @@
                         </p>
                     </div>
                     </div>
-                </div>
                 </div>
             </div>                                            
 </section>
