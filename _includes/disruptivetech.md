@@ -112,7 +112,37 @@
                         entirely)</b>
                     </h4>
                     <p class="text-justify"> 
-                        "insert infos"
+                        Indeed, technology revolutionized the way we shop – whether this is online or in person. Technology especially in E-Commerce, 
+                        is playing an essential role in managing the interaction between the shopper and seller. In E-Commerce, these business platforms 
+                        exhibit a remarkable ‘interactivity’ experience that establishes sophistication, reliability and more saleable products or services.
+                        <br>
+                        As e-commerce continues to change consumer behavior and ultimately raise the expectations of purchasers, the very meaning of the term
+                        “shopping” gets redefined as brands continuously attempt to meet these expectations. Unlike before, when shoppers had to go to physical 
+                        stores to browse through items and transact a purchase, e-commerce challenges the boundaries between physical stores and the online 
+                        experience (ESW, 2022). Instead of there being two channels through which consumers can purchase products, most brands now offer a 
+                        shopping experience that combines the old and the new to create an entirely redefined and far more convenient way of shopping (ESW, 2022).
+                        <br>
+                        Nowadays, many brands come up with mobile apps that not only give shoppers the ability to transact fully online but also integrated 
+                        into the traditional shopping experience. These mobile apps may allow shoppers to make their payments online and pick up the 
+                        purchased product at a physical store nearest to them to avoid paying the shipping fee. At the other end of it as well, even when 
+                        people do opt to check out the store, those who have the mobile app often also have a membership to which they then can add points 
+                        with every purchase. Through this, e-commerce offered a new meaning that does not eliminate our old understanding of the word "shopping".
+                        Instead, technology reimagined shopping into a digitalized version. Shopping now becomes a conjunction of what consumers had 
+                        gotten used to. The online experience that they have recently grown fond of and the brands that have a better understanding 
+                        created a seamless transition between the two.
+                        <br>
+                        <img src="visuals, bg, & graphics/bf5.png" width= 854 height= 480 alt="Virtual Fitting Room" class="visuals">
+                        <br>
+                        ‘Adidas Cyberfit’ is one of the most famous examples wherein you can try on clothes without needing to remove the shopper’s clothes. 
+                        Moreover, ‘Topshop’ and ‘Timberland’ also introduced the “virtual fitting room” where shoppers can see an image of themselves projected 
+                        onto a large screen, and they then can try on clothing without having to search for sizes and different colors within the actual shop.
+                        <br>
+                        E-commerce offers a wide variety of interactive experience among shoppers and retailers: grocery shopping can be completed without 
+                        human interaction, likewise, we can purchase and check-in our flights without the need to be processed by an agent.
+                        <br>
+                        In this period of globalization, the power of machines aid in how the sellers can cope up on the effects of technological advancement 
+                        in terms of businesses and how to sell directly to consumers.
+                      
                     </p>
                 </div>
             </div>
