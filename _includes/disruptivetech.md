@@ -6,6 +6,11 @@
         width: 90%;
         height: auto;
     }
+    @media only screen and (max-width: 1920px)
+    {#disruptivetech{
+            text-color: white;
+            }
+    }
 </style>
 <section id="disruptivetech">
     <div class="container">
