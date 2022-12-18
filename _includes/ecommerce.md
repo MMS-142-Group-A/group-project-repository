@@ -24,7 +24,6 @@
 	}
 
 	.lalagyan > div {
-  		background-color: #9F3F2A;
 		background-image: radial-gradient(#C74F35, #9F3F2A);
   		padding: 10px ;
 		border-radius:35px;
@@ -38,7 +37,7 @@
   		padding: 20px;
 		text-indent: 30px;
 	}
-	.cardh-100:hover {
+	.lalagyan > div:hover {
   		background-color: black;
 	}
 </style>
