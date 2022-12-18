@@ -44,7 +44,8 @@
                         <p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                             This is the most common type of business model. B2C E-commerce means that the companies sell directly to the end-user. Amazon is an example of B2C as it sells its products on its E-commerce website. Another is through the use of their website, such as Linus Tech Tip’s store.
                         </p>
-                    </div>
+						</div>
+					</div>
                 </div>
 						<div class="card h-100">
 							<div class="col-6 col-sm-4">
@@ -59,8 +60,9 @@
                             B2B E-commerce is the transaction of businesses to other businesses. An example would be sourcing products from manufacturers to wholesalers, such as selling shoes from a factory to a shop on an online platform. Nike and Adidas have their brand on online platforms such as Amazon may be an example of B2B.
 							</p>
 							</div>
-							</div>
 						</div>
+					</div>
+				</div>
 						<div class="card h-100">
 							<div class="col-6 col-sm-4">
 							<h4> Business to Government (B2G) </h4>
@@ -73,9 +75,9 @@
                         <p style="margin-left:2.5em" "margin-right:2.5em" class="text-justify">
                             B2G E-commerce is the transaction of goods and services through E-commerce to federal, state, and local government bodies. Examples of such services include Mark 43 where one of their works has the optimization of a police cloud data system and Senseware where their service provides a complete IoT Technology Stack (includes devices, communications, protocols, cloud platform, and applications).
                         </p>
-							</div>
-							</div>
 						</div>
+					</div>
+				</div>
 						<div class="card h-100">
 							<div class="col-6 col-sm-4">
 							<h4> Consumer to Consumer (C2C) </h4>
@@ -129,7 +131,7 @@
                 <h3>
                   Advantages and Disadvantages
                  </h3>
-				 <img src="img/E Commerce Advantages and Disadvantages/E-Commerce Advantages and Disadvantages.png"  
+				 <img src="img/E Commerce Advantages and Disadvantages/Final A&D Graphic.png"  
 						     width= auto
 							 height = 1000
 							 = display: block; margin-left: auto; margin-right:auto;"
